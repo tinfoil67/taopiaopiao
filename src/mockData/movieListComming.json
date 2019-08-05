@@ -1,0 +1,115 @@
+[
+	{
+		"title": "2019-07-23 明天",
+		"items": [
+			{
+				"id": "1291632",
+				"name": "灰猴",
+				"hdr": "",
+				"label": "",
+				"rate": "",
+				"likes": "3357",
+				"directors": "张璞",
+				"stars": "王大治 高峰 王靖云",
+				"posterUrl": "https://gw.alicdn.com/i1/TB1zKA8aoH1gK0jSZSyXXXtlpXa_.jpg_160x160Q30s100.jpg_.web",
+				"isTest": false,
+				"isOnSale": false,
+				"isDailyHotest": false,
+				"isWeeklyHotest": false,
+				"isSale": false,
+				"isPresale": true
+			}
+		]
+	}, {
+		"title": "2019-07-25 周四",
+		"items": [
+			{
+				"id": "1293999",
+				"name": "小Q",
+				"hdr": "2D",
+				"label": "中国巨幕",
+				"rate": "",
+				"likes": "7.7万",
+				"directors": "罗永昌",
+				"stars": "任达华 梁咏琪 罗仲谦",
+				"posterUrl": "https://gw.alicdn.com/i3/TB1BXUIabr1gK0jSZR0XXbP8XXa_.jpg_160x160Q30s100.jpg_.webp",
+				"isTest": false,
+				"isOnSale": false,
+				"isDailyHotest": false,
+				"isWeeklyHotest": false,
+				"isSale": false,
+				"isPresale": true
+			}, {
+				"id": "216118",
+				"name": "隧道尽头",
+				"hdr": "",
+				"label": "",
+				"rate": "",
+				"likes": "7257",
+				"directors": "罗德里戈·格兰德",
+				"stars": "莱昂纳多·斯巴拉格利亚",
+				"posterUrl": "https://gw.alicdn.com/i3/TB1E.xbX2b2gK0jSZK9XXaEgFXa_.jpg_160x160Q30s100.jpg_.webp",
+				"isTest": false,
+				"isOnSale": false,
+				"isDailyHotest": false,
+				"isWeeklyHotest": false,
+				"isSale": false,
+				"isPresale": true
+			}, {
+				"id": "1315744",
+				"name": "我的心里住着一只猫",
+				"hdr": "",
+				"label": "",
+				"rate": "",
+				"likes": "1370",
+				"directors": "罗德里戈·格兰德",
+				"stars": "莱昂纳多·斯巴拉格利亚",
+				"posterUrl": "https://gw.alicdn.com/i1/TB1BJNMbLWG3KVjSZFPXXXaiXXa_.jpg_160x160Q30s100.jpg_.webp",
+				"isTest": false,
+				"isOnSale": false,
+				"isDailyHotest": false,
+				"isWeeklyHotest": false,
+				"isSale": false,
+				"isPresale": false
+			}
+		]
+	}, {
+		"title": "2019-07-26 周五",
+		"items": [
+			{
+				"id": "230419",
+				"name": "哪吒之魔童降世",
+				"hdr": "3D",
+				"label": "IMAX",
+				"rate": "9.6",
+				"likes": "6.6万",
+				"releaseDate": "下周五",
+				"directors": "饺子",
+				"stars": "吕艳婷 囧森瑟夫 瀚墨",
+				"posterUrl": "https://gw.alicdn.com/i3/TB16UYReUWF3KVjSZPhXXXclXXa_.jpg_160x160Q30s100.jpg_.webp",
+				"isTest": true,
+				"isOnSale": false,
+				"isDailyHotest": false,
+				"isWeeklyHotest": false,
+				"isSale": false,
+				"isPresale": true
+			}, {
+				"id": "1283871",
+				"name": "跳舞吧！大象",
+				"hdr": "2D",
+				"label": "中国巨幕",
+				"rate": "",
+				"likes": "9.1万",
+				"directors": "林育贤",
+				"stars": "艾伦 金春花 彭杨 宋楠惜",
+				"posterUrl": "https://gw.alicdn.com/i1/TB1UPA7aEY1gK0jSZFCXXcwqXXa_.jpg_160x160Q30s100.jpg_.webp",
+				"isTest": false,
+				"isOnSale": false,
+				"isDailyHotest": false,
+				"isWeeklyHotest": false,
+				"isSale": false,
+				"isPresale": true
+			}
+		]
+	}
+]

@@ -1,0 +1,65 @@
+{
+    "api": "mtop.film.mtopshowapi.getshowsbycitycode",
+    "data": {
+        "returnCode": "0",
+        "returnValue": [
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1319402",
+                "openDay": "2019-12-31 00:00:00",
+                "openTime": "2019",
+                "orderCount": "0",
+                "poster": "i3/TB1wcZyaW61gK0jSZFlXXXDKFXa_.jpg",
+                "scoreAndFavor": {
+                    "favorCount": "129",
+                    "favorCountDesc": "129 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "第三届国际戏剧影像展",
+                "soldType": "PRE",
+                "type": "影展",
+                "userShowStatus": "0",
+                "wantCount": "129"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1320089",
+                "openDay": "2019-08-03 00:00:00",
+                "openTime": "2019-08-03",
+                "orderCount": "0",
+                "poster": "i4/TB1xmgTbQL0gK0jSZFtXXXQCXXa_.jpg",
+                "scoreAndFavor": {
+                    "favorCount": "3",
+                    "favorCountDesc": "3 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "2019国家大剧院歌剧电影展",
+                "soldType": "PRE",
+                "type": "影展,戏剧",
+                "userShowStatus": "0",
+                "wantCount": "3"
+            }
+        ],
+        "timestamp": "1564479765452"
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "4.0"
+}

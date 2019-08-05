@@ -1,0 +1,345 @@
+{
+    "api": "mtop.film.mtopsearchapi.searchcinemas",
+    "data": {
+        "returnCode": "0",
+        "returnValue": {
+            "cinemas": [
+                {
+                    "activityTags": [
+                        {
+                            "tag": "新",
+                            "tagType": "0",
+                            "title": "特惠"
+                        }
+                    ],
+                    "address": "滨江区滨文路577号华润超市旁四楼",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "87"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "4933",
+                    "cinemaName": "滨文电影大世界",
+                    "displaySupports": [
+                        "改签",
+                        "观影小食",
+                        "可停车"
+                    ],
+                    "distance": "4.4",
+                    "latitude": "30.171881000000003",
+                    "longitude": "120.146536",
+                    "mcardOpen": "false",
+                    "minPrice": "1700",
+                    "scheduleCloseTime": "0",
+                    "scheduleCount": "92",
+                    "subwayIds": [
+                        "98"
+                    ],
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "惠",
+                            "tagType": "3",
+                            "title": "哪吒之魔童降世等8部影片特惠"
+                        }
+                    ],
+                    "address": "上城区中山南路77号尚城1157·利星名品广场4楼",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "134"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "36287",
+                    "cinemaName": "保利院线尚橙电影工场",
+                    "displaySupports": [
+                        "观影小食",
+                        "VIP厅",
+                        "杜比全景声厅",
+                        "可停车"
+                    ],
+                    "distance": "4.4",
+                    "latitude": "30.228403",
+                    "longitude": "120.168481",
+                    "mcardOpen": "false",
+                    "minPrice": "1990",
+                    "scheduleCloseTime": "1",
+                    "scheduleCount": "159",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "新",
+                            "tagType": "0",
+                            "title": "特惠"
+                        }
+                    ],
+                    "address": "萧山区山阴路恒隆广场D座5F",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "131"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "4542",
+                    "cinemaName": "恒隆电影大世界",
+                    "displaySupports": [
+                        "退票",
+                        "改签",
+                        "观影小食",
+                        "艺术影厅",
+                        "可停车"
+                    ],
+                    "distance": "7.4",
+                    "latitude": "30.1776869805866",
+                    "longitude": "120.26203393936157",
+                    "mcardOpen": "false",
+                    "minPrice": "1990",
+                    "scheduleCloseTime": "0",
+                    "scheduleCount": "88",
+                    "subwayIds": [
+                        "95"
+                    ],
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "惠",
+                            "tagType": "3",
+                            "title": "哪吒之魔童降世等7部影片特惠"
+                        }
+                    ],
+                    "address": "下城区庆春路60号东清大厦E座",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "92"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "4549",
+                    "cinemaName": "庆春电影大世界",
+                    "displaySupports": [
+                        "退票",
+                        "改签",
+                        "观影小食",
+                        "艺术影厅",
+                        "可停车"
+                    ],
+                    "distance": "7.4",
+                    "latitude": "30.258209993271443",
+                    "longitude": "120.17824776470661",
+                    "mcardOpen": "false",
+                    "minPrice": "1700",
+                    "scheduleCloseTime": "0",
+                    "scheduleCount": "200",
+                    "subwayIds": [
+                        "95"
+                    ],
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "新",
+                            "tagType": "0",
+                            "title": "特惠"
+                        }
+                    ],
+                    "address": "下城区龙游路38号",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "92"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "4544",
+                    "cinemaName": "浙江奥斯卡电影大世界",
+                    "displaySupports": [
+                        "退票",
+                        "改签",
+                        "观影小食",
+                        "艺术影厅",
+                        "可停车"
+                    ],
+                    "distance": "8.2",
+                    "latitude": "30.261864667389062",
+                    "longitude": "120.1600831747055",
+                    "mcardOpen": "false",
+                    "minPrice": "1700",
+                    "scheduleCloseTime": "0",
+                    "scheduleCount": "188",
+                    "subwayIds": [
+                        "96",
+                        "95"
+                    ],
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "惠",
+                            "tagType": "3",
+                            "title": "哪吒之魔童降世等7部影片特惠"
+                        }
+                    ],
+                    "address": "下城区杭州延安路609号国大城市广场9楼",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "92"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "45077",
+                    "cinemaName": "纷腾电影生活馆（杭州国大店）",
+                    "displaySupports": [],
+                    "distance": "9.0",
+                    "latitude": "30.269608",
+                    "longitude": "120.162554",
+                    "mcardOpen": "false",
+                    "minPrice": "1990",
+                    "scheduleCloseTime": "0",
+                    "scheduleCount": "91",
+                    "subwayIds": [
+                        "96",
+                        "95"
+                    ],
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "惠",
+                            "tagType": "3",
+                            "title": "哪吒之魔童降世等8部影片特惠"
+                        }
+                    ],
+                    "address": "西湖区文一路298号",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "17"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "4545",
+                    "cinemaName": "翠苑电影大世界",
+                    "displaySupports": [
+                        "退票",
+                        "改签",
+                        "观影小食",
+                        "艺术影厅",
+                        "可停车"
+                    ],
+                    "distance": "12.4",
+                    "latitude": "30.28816156695497",
+                    "longitude": "120.12240886688232",
+                    "mcardOpen": "false",
+                    "minPrice": "1900",
+                    "scheduleCloseTime": "0",
+                    "scheduleCount": "164",
+                    "subwayIds": [
+                        "95"
+                    ],
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "新",
+                            "tagType": "0",
+                            "title": "特惠"
+                        }
+                    ],
+                    "address": "下城区香积寺路21号",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "92"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "4548",
+                    "cinemaName": "众安电影大世界",
+                    "displaySupports": [
+                        "退票",
+                        "改签",
+                        "观影小食",
+                        "可停车"
+                    ],
+                    "distance": "13.0",
+                    "latitude": "30.307818542335255",
+                    "longitude": "120.17398238182068",
+                    "mcardOpen": "false",
+                    "minPrice": "1990",
+                    "scheduleCloseTime": "0",
+                    "scheduleCount": "84",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "新",
+                            "tagType": "0",
+                            "title": "特惠"
+                        }
+                    ],
+                    "address": "江干区杭海路1211号2号楼2楼",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "49"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "24449",
+                    "cinemaName": "东城时代电影大世界",
+                    "displaySupports": [
+                        "观影小食",
+                        "艺术影厅",
+                        "可停车"
+                    ],
+                    "distance": "15.4",
+                    "latitude": "30.3115728609",
+                    "longitude": "120.2662717712",
+                    "mcardOpen": "false",
+                    "minPrice": "1990",
+                    "scheduleCloseTime": "15",
+                    "scheduleCount": "128",
+                    "subwayIds": [
+                        "96"
+                    ],
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "新",
+                            "tagType": "0",
+                            "title": "特惠"
+                        }
+                    ],
+                    "address": "拱墅区小河路488号运河天地4幢",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "1027"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "5530",
+                    "cinemaName": "杭州比高电影城（大河店）",
+                    "displaySupports": [
+                        "改签",
+                        "观影小食",
+                        "艺术影厅"
+                    ],
+                    "distance": "15.6",
+                    "latitude": "30.3253544949",
+                    "longitude": "120.137812164",
+                    "mcardOpen": "false",
+                    "minPrice": "1990",
+                    "scheduleCloseTime": "5",
+                    "scheduleCount": "76",
+                    "supportMcard": "false"
+                }
+            ],
+            "traceId": "0bb1b83f15641115435921949ec18f"
+        },
+        "timestamp": "1564111543597"
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "7.5"
+}

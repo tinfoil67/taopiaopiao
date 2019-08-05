@@ -1,0 +1,46 @@
+.cinemas-page {
+    padding-top: 43px;
+    padding-bottom: 50px;
+    background: #fff;
+}
+
+.cinemas-page .header {
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background: #fff linear-gradient(#ededed,#ededed 50%,transparent 50%,transparent) 0 100% repeat-x;
+    background-size: 100% 1px;
+    display: flex;
+    z-index: 10;
+}
+
+.cinemas-page .current-city {
+    width: 105px;
+    line-height: 43px;
+    height: 43px;
+    box-sizing: border-box;
+    color: #999;
+    padding-left: 40px;
+    background-image: url(//gw.alicdn.com/tfs/TB1mKkzl9zqK1RjSZFpXXakSXXa-50-50.svg);
+    background-size: 26px;
+    background-repeat: no-repeat;
+    background-position: 50%;
+    background-position-x: 8px;
+    font-size: 14px;
+    flex-shrink: 0;
+}
+
+.cinemas-page .current-city .arrow-down {
+    margin-left: 4px;
+    margin-bottom: 2px;
+}
+
+.cinemas-page .current-city .arrow-down:after {
+    border: none;
+    width: 5px;
+    height: 5px;
+    border-top: 1px solid #999;
+    border-left: 1px solid #999;
+    transform: rotate(225deg);
+    box-sizing: border-box;
+}

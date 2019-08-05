@@ -1,0 +1,343 @@
+{
+    "api": "mtop.film.mtopshowapi.getshowsbycitycode",
+    "data": {
+        "returnCode": "0",
+        "returnValue": [
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "日本",
+                "derivationList": [],
+                "director": "须藤友德",
+                "duration": "113",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "514710",
+                "leadingRole": "杉山纪彰,下屋则子,神谷浩史,川澄绫子,植田佳奈",
+                "openDay": "2019-07-12 00:00:00",
+                "openTime": "2019-07-12",
+                "orderCount": "0",
+                "poster": "i1/TB16gwXXxz1gK0jSZSgXXavwpXa_.jpg",
+                "previewNum": "3",
+                "remark": "8.7",
+                "scoreAndFavor": {
+                    "favorCount": "184170",
+                    "favorCountDesc": "18.4万 人想看",
+                    "score": {
+                        "score": "8.7",
+                        "scoreCount": "52113",
+                        "scoreCountDesc": "5.2万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "命运之夜——天之杯II ：迷失之蝶",
+                "soldType": "NORMAL",
+                "type": "剧情,动画,奇幻",
+                "userShowStatus": "0",
+                "wantCount": "184170"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "杨涧华",
+                "duration": "94",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1309860",
+                "leadingRole": "雅哥,张晨,姚程琨,张漪妮",
+                "openDay": "2019-08-02 00:00:00",
+                "openTime": "2019-08-02",
+                "orderCount": "0",
+                "poster": "i2/TB1t8vXd.GF3KVjSZFoXXbmpFXa_.jpg",
+                "preScheduleDates": [],
+                "previewNum": "2",
+                "scoreAndFavor": {
+                    "favorCount": "646",
+                    "favorCountDesc": "646 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "歌唱动荡的青春",
+                "soldType": "PRE",
+                "type": "剧情,爱情",
+                "userShowStatus": "0",
+                "wantCount": "646"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "爱尔兰,加拿大,卢森堡",
+                "derivationList": [],
+                "director": "诺拉·托梅",
+                "duration": "94",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "512432",
+                "leadingRole": "莎拉·乔德利,坎扎·费里斯,雷扎·索勒,阿里·巴德沙阿",
+                "openDay": "2019-01-11 00:00:00",
+                "openTime": "2019-01-11",
+                "orderCount": "0",
+                "poster": "i4/TB1R.Cjz4TpK1RjSZR0XXbEwXXa_.jpg",
+                "previewNum": "8",
+                "remark": "8.7",
+                "scoreAndFavor": {
+                    "favorCount": "18151",
+                    "favorCountDesc": "1.8万 人想看",
+                    "score": {
+                        "score": "8.7",
+                        "scoreCount": "13715",
+                        "scoreCountDesc": "1.4万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "养家之人",
+                "soldType": "NORMAL",
+                "type": "剧情,动画,家庭",
+                "userShowStatus": "0",
+                "wantCount": "18151"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "印度",
+                "derivationList": [],
+                "director": "西达夫·马贺拉",
+                "duration": "116",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1279492",
+                "leadingRole": "拉妮·玛克赫吉,内拉吉·卡比,萨钦,苏普丽雅·皮尔加卡尔,Shivkumar Subramaniam,侯赛因·达拉尔",
+                "openDay": "2018-10-12 00:00:00",
+                "openTime": "2018-10-12",
+                "orderCount": "0",
+                "poster": "i1/TB1AGb4gY2pK1RjSZFsXXaNlXXa_.jpg",
+                "previewNum": "12",
+                "remark": "9.1",
+                "scoreAndFavor": {
+                    "favorCount": "37757",
+                    "favorCountDesc": "3.8万 人想看",
+                    "score": {
+                        "score": "9.1",
+                        "scoreCount": "187942",
+                        "scoreCountDesc": "18.8万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "嗝嗝老师",
+                "soldType": "NORMAL",
+                "type": "剧情,喜剧",
+                "userShowStatus": "0",
+                "wantCount": "37757"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "李木子, 胡方易, 崔喆",
+                "duration": "92",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1311080",
+                "leadingRole": "孙茜,李沛泽,郑昊,巩汉林,林威,伟国,沙溢,艾莉,尤宪超",
+                "openDay": "2019-05-31 00:00:00",
+                "openTime": "2019-05-31",
+                "orderCount": "0",
+                "poster": "i1/TB1YJKfVNTpK1RjSZFMXXbG_VXa_.jpg",
+                "previewNum": "4",
+                "scoreAndFavor": {
+                    "favorCount": "1241",
+                    "favorCountDesc": "1241 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "2D 中国巨幕",
+                "showName": "好小子，好功夫",
+                "soldType": "NORMAL",
+                "type": "剧情,喜剧,家庭,儿童",
+                "userShowStatus": "0",
+                "wantCount": "1241"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "美国",
+                "derivationList": [],
+                "director": "盖尔·曼库索",
+                "duration": "108",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1287975",
+                "leadingRole": "丹尼斯·奎德,凯瑟琳·普雷斯科特,刘宪华,乔什·加德,贝蒂 · 吉尔平,玛格·海根柏格",
+                "openDay": "2019-05-17 00:00:00",
+                "openTime": "2019-05-17",
+                "orderCount": "0",
+                "poster": "i2/TB1y05BU7voK1RjSZFwXXciCFXa_.jpg",
+                "previewNum": "17",
+                "remark": "8.9",
+                "scoreAndFavor": {
+                    "favorCount": "540850",
+                    "favorCountDesc": "54.1万 人想看",
+                    "score": {
+                        "score": "8.9",
+                        "scoreCount": "231521",
+                        "scoreCountDesc": "23.2万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "一条狗的使命2",
+                "soldType": "NORMAL",
+                "type": "剧情,喜剧,家庭",
+                "userShowStatus": "0",
+                "wantCount": "540850"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "钟海",
+                "duration": "94",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "227657",
+                "leadingRole": "王莎莎,吴军,杨心仪",
+                "openDay": "2017-10-16 00:00:00",
+                "openTime": "2017-10-16",
+                "orderCount": "0",
+                "poster": "i4/TB1tnk.hLNNTKJjSspkXXaeWFXa_.jpg",
+                "previewNum": "4",
+                "scoreAndFavor": {
+                    "favorCount": "2487",
+                    "favorCountDesc": "2487 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "旋风女队",
+                "soldType": "NORMAL",
+                "type": "运动,儿童",
+                "userShowStatus": "0",
+                "wantCount": "2487"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "",
+                "duration": "97",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1209373",
+                "leadingRole": "曾志伟,殷若曦,贾冰,张驰,毛毛",
+                "openDay": "2019-07-19 00:00:00",
+                "openTime": "2019-07-19",
+                "orderCount": "0",
+                "poster": "i2/TB1e7oKXET1gK0jSZFrXXcNCXXa_.jpg",
+                "previewNum": "4",
+                "remark": "7.1",
+                "scoreAndFavor": {
+                    "favorCount": "45018",
+                    "favorCountDesc": "4.5万 人想看",
+                    "score": {
+                        "score": "7.1",
+                        "scoreCount": "4773",
+                        "scoreCountDesc": "4773 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "猪八戒传说",
+                "soldType": "NORMAL",
+                "type": "喜剧,奇幻",
+                "userShowStatus": "0",
+                "wantCount": "45018"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "张璞",
+                "duration": "98",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1291632",
+                "leadingRole": "王大治,高峰,王靖云",
+                "openDay": "2019-07-23 08:00:00",
+                "openTime": "2019-07-23 08:00",
+                "orderCount": "0",
+                "poster": "i1/TB1zKA8aoH1gK0jSZSyXXXtlpXa_.jpg",
+                "previewNum": "8",
+                "remark": "7.9",
+                "scoreAndFavor": {
+                    "favorCount": "5110",
+                    "favorCountDesc": "5110 人想看",
+                    "score": {
+                        "score": "7.9",
+                        "scoreCount": "4698",
+                        "scoreCountDesc": "4698 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "灰猴",
+                "soldType": "NORMAL",
+                "type": "喜剧,剧情,犯罪",
+                "userShowStatus": "0",
+                "wantCount": "5110"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "德国,瑞士",
+                "derivationList": [],
+                "director": "阿兰·葛斯彭纳",
+                "duration": "111",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "205279",
+                "leadingRole": "阿努克·斯特芬,布鲁诺·甘茨,昆林·艾格匹,安娜·申茨,彼得·杰克林,汉内洛勒·霍格,卡塔琳娜·舒特勒",
+                "openDay": "2019-05-16 18:00:00",
+                "openTime": "2019-05-16 18:00",
+                "orderCount": "0",
+                "poster": "i3/TB1OAe6VYvpK1RjSZPiXXbmwXXa_.jpg",
+                "previewNum": "6",
+                "remark": "9.3",
+                "scoreAndFavor": {
+                    "favorCount": "55350",
+                    "favorCountDesc": "5.5万 人想看",
+                    "score": {
+                        "score": "9.3",
+                        "scoreCount": "40535",
+                        "scoreCountDesc": "4.1万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "海蒂和爷爷",
+                "soldType": "NORMAL",
+                "type": "剧情,家庭",
+                "userShowStatus": "0",
+                "wantCount": "55350"
+            }
+        ],
+        "timestamp": "1564479664596"
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "4.0"
+}

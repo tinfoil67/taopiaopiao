@@ -1,0 +1,1619 @@
+ {
+    "api": "mtop.film.mtopcinemaapi.getcinemalistinpage",
+    "data": {
+        "returnCode": "0",
+        "returnValue": {
+            "cinemaFilter": {
+                "areaCode": "87",
+                "areaMallFilters": [
+                    {
+                        "code": "ALL",
+                        "count": "0",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "172",
+                                "title": "全部"
+                            }
+                        ],
+                        "title": "全部"
+                    },
+                    {
+                        "code": "87",
+                        "count": "14",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "14",
+                                "title": "全部"
+                            },
+                            {
+                                "code": "775912",
+                                "count": "5",
+                                "title": "星光大道"
+                            },
+                            {
+                                "code": "775696",
+                                "count": "4",
+                                "title": "星耀城二期城市生活广场"
+                            },
+                            {
+                                "code": "775533",
+                                "count": "3",
+                                "title": "啦喜街美食街"
+                            },
+                            {
+                                "code": "773382",
+                                "count": "2",
+                                "title": "乐缤纷世茂中心"
+                            },
+                            {
+                                "code": "775096",
+                                "count": "2",
+                                "title": "龙湖杭州滨江天街"
+                            },
+                            {
+                                "code": "775844",
+                                "count": "2",
+                                "title": "盒座社"
+                            },
+                            {
+                                "code": "773579",
+                                "count": "1",
+                                "title": "滨江宝龙城"
+                            }
+                        ],
+                        "title": "滨江区"
+                    },
+                    {
+                        "code": "4660",
+                        "count": "2",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "2",
+                                "title": "全部"
+                            },
+                            {
+                                "code": "773735",
+                                "count": "1",
+                                "title": "千岛湖鱼街"
+                            }
+                        ],
+                        "title": "淳安县"
+                    },
+                    {
+                        "code": "1025",
+                        "count": "9",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "9",
+                                "title": "全部"
+                            },
+                            {
+                                "code": "772988",
+                                "count": "1",
+                                "title": "富阳宝龙广场"
+                            },
+                            {
+                                "code": "773129",
+                                "count": "1",
+                                "title": "东方茂"
+                            },
+                            {
+                                "code": "774953",
+                                "count": "1",
+                                "title": "富阳银泰百货(文居街店)"
+                            }
+                        ],
+                        "title": "富阳区"
+                    },
+                    {
+                        "code": "1027",
+                        "count": "13",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "13",
+                                "title": "全部"
+                            },
+                            {
+                                "code": "775568",
+                                "count": "3",
+                                "title": "运河上街购物中心"
+                            },
+                            {
+                                "code": "773457",
+                                "count": "2",
+                                "title": "水晶城购物中心"
+                            },
+                            {
+                                "code": "773683",
+                                "count": "2",
+                                "title": "天阳D32时尚购物街区"
+                            },
+                            {
+                                "code": "773341",
+                                "count": "1",
+                                "title": "远洋乐堤港"
+                            },
+                            {
+                                "code": "773362",
+                                "count": "1",
+                                "title": "杭州城西银泰城"
+                            },
+                            {
+                                "code": "774550",
+                                "count": "1",
+                                "title": "杭州大悦城"
+                            },
+                            {
+                                "code": "776500",
+                                "count": "1",
+                                "title": "万达广场(拱墅店)"
+                            },
+                            {
+                                "code": "1030989",
+                                "count": "1",
+                                "title": "杭州复地活力广场"
+                            }
+                        ],
+                        "title": "拱墅区"
+                    },
+                    {
+                        "code": "1034",
+                        "count": "4",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "4",
+                                "title": "全部"
+                            },
+                            {
+                                "code": "773055",
+                                "count": "1",
+                                "title": "太平洋购物中心"
+                            }
+                        ],
+                        "title": "建德市"
+                    },
+                    {
+                        "code": "49",
+                        "count": "25",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "25",
+                                "title": "全部"
+                            },
+                            {
+                                "code": "775576",
+                                "count": "5",
+                                "title": "龙湖杭州金沙天街"
+                            },
+                            {
+                                "code": "1694476",
+                                "count": "4",
+                                "title": "金沙印象城"
+                            },
+                            {
+                                "code": "772955",
+                                "count": "3",
+                                "title": "福雷德广场"
+                            },
+                            {
+                                "code": "775768",
+                                "count": "3",
+                                "title": "杭州来福士"
+                            },
+                            {
+                                "code": "775823",
+                                "count": "3",
+                                "title": "银泰百货(杭州下沙工厂店)"
+                            },
+                            {
+                                "code": "776156",
+                                "count": "3",
+                                "title": "万象城"
+                            },
+                            {
+                                "code": "773468",
+                                "count": "2",
+                                "title": "银泰(庆春店)"
+                            },
+                            {
+                                "code": "774171",
+                                "count": "2",
+                                "title": "杭州大厦501城市广场"
+                            },
+                            {
+                                "code": "774391",
+                                "count": "2",
+                                "title": "杭州火车东站"
+                            },
+                            {
+                                "code": "800267",
+                                "count": "2",
+                                "title": "衣之家(城东店)"
+                            },
+                            {
+                                "code": "773002",
+                                "count": "1",
+                                "title": "东站.西子国际"
+                            },
+                            {
+                                "code": "773033",
+                                "count": "1",
+                                "title": "汇和城(城东店)"
+                            },
+                            {
+                                "code": "776279",
+                                "count": "1",
+                                "title": "宝龙广场(下沙店)"
+                            },
+                            {
+                                "code": "897154",
+                                "count": "1",
+                                "title": "衣之家(城市广场店)"
+                            }
+                        ],
+                        "title": "江干区"
+                    },
+                    {
+                        "code": "3537",
+                        "count": "8",
+                        "subFilters": [],
+                        "title": "临安区"
+                    },
+                    {
+                        "code": "134",
+                        "count": "6",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "6",
+                                "title": "全部"
+                            },
+                            {
+                                "code": "773019",
+                                "count": "4",
+                                "title": "衣之家(时代店)"
+                            },
+                            {
+                                "code": "773280",
+                                "count": "4",
+                                "title": "杭州湖滨银泰in77"
+                            },
+                            {
+                                "code": "773399",
+                                "count": "4",
+                                "title": "西湖天街"
+                            },
+                            {
+                                "code": "775626",
+                                "count": "4",
+                                "title": "工联海淘购物城"
+                            },
+                            {
+                                "code": "773571",
+                                "count": "3",
+                                "title": "汇和城(天工艺苑店)"
+                            },
+                            {
+                                "code": "1484167",
+                                "count": "3",
+                                "title": "杭州解百城市奥莱"
+                            },
+                            {
+                                "code": "774995",
+                                "count": "2",
+                                "title": "银泰百货(杭州武林总店)"
+                            },
+                            {
+                                "code": "775388",
+                                "count": "2",
+                                "title": "西湖银泰城"
+                            },
+                            {
+                                "code": "773617",
+                                "count": "1",
+                                "title": "万松书院"
+                            },
+                            {
+                                "code": "775229",
+                                "count": "1",
+                                "title": "万泰城美食娱乐生活广场"
+                            },
+                            {
+                                "code": "775688",
+                                "count": "1",
+                                "title": "胡雪岩故居"
+                            }
+                        ],
+                        "title": "上城区"
+                    },
+                    {
+                        "code": "1029",
+                        "count": "5",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "5",
+                                "title": "全部"
+                            },
+                            {
+                                "code": "774130",
+                                "count": "1",
+                                "title": "利时广场"
+                            }
+                        ],
+                        "title": "桐庐县"
+                    },
+                    {
+                        "code": "92",
+                        "count": "15",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "15",
+                                "title": "全部"
+                            },
+                            {
+                                "code": "772989",
+                                "count": "4",
+                                "title": "杭州大厦"
+                            },
+                            {
+                                "code": "773470",
+                                "count": "4",
+                                "title": "银泰百货杭州文化广场(折扣店)"
+                            },
+                            {
+                                "code": "776407",
+                                "count": "4",
+                                "title": "国大城市广场"
+                            },
+                            {
+                                "code": "775987",
+                                "count": "3",
+                                "title": "新天地购物中心"
+                            },
+                            {
+                                "code": "774558",
+                                "count": "2",
+                                "title": "杭州中大银泰城"
+                            },
+                            {
+                                "code": "775085",
+                                "count": "1",
+                                "title": "西狗茂"
+                            }
+                        ],
+                        "title": "下城区"
+                    },
+                    {
+                        "code": "131",
+                        "count": "19",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "19",
+                                "title": "全部"
+                            },
+                            {
+                                "code": "1561307",
+                                "count": "3",
+                                "title": "萧山市心中路口碑街"
+                            },
+                            {
+                                "code": "774982",
+                                "count": "2",
+                                "title": "恒隆广场"
+                            },
+                            {
+                                "code": "775633",
+                                "count": "2",
+                                "title": "汇德隆银隆百货"
+                            },
+                            {
+                                "code": "1043251",
+                                "count": "2",
+                                "title": "杭州萧山万象汇"
+                            },
+                            {
+                                "code": "773191",
+                                "count": "1",
+                                "title": "汇金星座标"
+                            },
+                            {
+                                "code": "774219",
+                                "count": "1",
+                                "title": "旺角城新天地"
+                            },
+                            {
+                                "code": "774264",
+                                "count": "1",
+                                "title": "LSE城市生活广场"
+                            },
+                            {
+                                "code": "775361",
+                                "count": "1",
+                                "title": "宝龙广场(萧山店)"
+                            }
+                        ],
+                        "title": "萧山区"
+                    },
+                    {
+                        "code": "5588",
+                        "count": "7",
+                        "subFilters": [],
+                        "title": "下沙经济开发区"
+                    },
+                    {
+                        "code": "17",
+                        "count": "14",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "14",
+                                "title": "全部"
+                            },
+                            {
+                                "code": "774257",
+                                "count": "3",
+                                "title": "lifeplaza303生活广场"
+                            },
+                            {
+                                "code": "773158",
+                                "count": "2",
+                                "title": "西溪银泰"
+                            },
+                            {
+                                "code": "775084",
+                                "count": "2",
+                                "title": "杭州古墩印象城"
+                            },
+                            {
+                                "code": "776169",
+                                "count": "2",
+                                "title": "西城广场"
+                            },
+                            {
+                                "code": "774707",
+                                "count": "1",
+                                "title": "汇和城(翠苑店)"
+                            },
+                            {
+                                "code": "775389",
+                                "count": "1",
+                                "title": "铂澜大象城"
+                            },
+                            {
+                                "code": "795507",
+                                "count": "1",
+                                "title": "衣之家(翠苑店)"
+                            },
+                            {
+                                "code": "1026093",
+                                "count": "1",
+                                "title": "西溪天堂·栖悦城"
+                            },
+                            {
+                                "code": "1220566",
+                                "count": "1",
+                                "title": "霞鸣口碑街"
+                            }
+                        ],
+                        "title": "西湖区"
+                    },
+                    {
+                        "code": "1028",
+                        "count": "31",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "31",
+                                "title": "全部"
+                            },
+                            {
+                                "code": "775796",
+                                "count": "3",
+                                "title": "银泰百货(临平店)"
+                            },
+                            {
+                                "code": "805027",
+                                "count": "3",
+                                "title": "华元欢乐城"
+                            },
+                            {
+                                "code": "773648",
+                                "count": "2",
+                                "title": "余之城"
+                            },
+                            {
+                                "code": "774775",
+                                "count": "2",
+                                "title": "金地广场"
+                            },
+                            {
+                                "code": "803836",
+                                "count": "2",
+                                "title": "临平银泰城"
+                            },
+                            {
+                                "code": "773042",
+                                "count": "1",
+                                "title": "万科新街坊"
+                            },
+                            {
+                                "code": "774412",
+                                "count": "1",
+                                "title": "恒德瓶窑广场"
+                            },
+                            {
+                                "code": "774461",
+                                "count": "1",
+                                "title": "亲橙里"
+                            },
+                            {
+                                "code": "774535",
+                                "count": "1",
+                                "title": "蜗牛广场"
+                            },
+                            {
+                                "code": "774631",
+                                "count": "1",
+                                "title": "乐天城"
+                            },
+                            {
+                                "code": "774713",
+                                "count": "1",
+                                "title": "永旺梦乐城"
+                            },
+                            {
+                                "code": "774829",
+                                "count": "1",
+                                "title": "上亿广场"
+                            },
+                            {
+                                "code": "774980",
+                                "count": "1",
+                                "title": "西溪印象城"
+                            },
+                            {
+                                "code": "775719",
+                                "count": "1",
+                                "title": "西溪欢乐城"
+                            },
+                            {
+                                "code": "857500",
+                                "count": "1",
+                                "title": "西田城"
+                            },
+                            {
+                                "code": "899568",
+                                "count": "1",
+                                "title": "杭州崇贤上亿广场"
+                            }
+                        ],
+                        "title": "余杭区"
+                    }
+                ],
+                "brandCode": "",
+                "brandFilters": [
+                    {
+                        "count": "172",
+                        "title": "全部"
+                    },
+                    {
+                        "code": "1008",
+                        "count": "13",
+                        "title": "时代电影院线"
+                    },
+                    {
+                        "code": "1007",
+                        "count": "7",
+                        "title": "万达电影"
+                    },
+                    {
+                        "code": "1010",
+                        "count": "6",
+                        "title": "横店影视"
+                    },
+                    {
+                        "code": "1002",
+                        "count": "6",
+                        "title": "中影国际影城"
+                    },
+                    {
+                        "code": "1022",
+                        "count": "5",
+                        "title": "大地影院"
+                    },
+                    {
+                        "code": "1028",
+                        "count": "4",
+                        "title": "比高"
+                    },
+                    {
+                        "code": "1004",
+                        "count": "4",
+                        "title": "星美影商城"
+                    },
+                    {
+                        "code": "1001",
+                        "count": "3",
+                        "title": "百老汇电影院"
+                    },
+                    {
+                        "code": "1005",
+                        "count": "3",
+                        "title": "博纳影城"
+                    },
+                    {
+                        "code": "1016",
+                        "count": "3",
+                        "title": "金逸影城"
+                    },
+                    {
+                        "code": "1011",
+                        "count": "3",
+                        "title": "SFC影城"
+                    },
+                    {
+                        "code": "7320",
+                        "count": "3",
+                        "title": "视博"
+                    },
+                    {
+                        "code": "1003",
+                        "count": "2",
+                        "title": "保利影城"
+                    },
+                    {
+                        "code": "1026",
+                        "count": "2",
+                        "title": "CGV"
+                    },
+                    {
+                        "code": "7304",
+                        "count": "2",
+                        "title": "红星美凯龙影业"
+                    },
+                    {
+                        "code": "1032",
+                        "count": "2",
+                        "title": "明星时代"
+                    },
+                    {
+                        "code": "1021",
+                        "count": "2",
+                        "title": "太平洋影城"
+                    },
+                    {
+                        "code": "1017",
+                        "count": "2",
+                        "title": "完美世界"
+                    },
+                    {
+                        "code": "7332",
+                        "count": "2",
+                        "title": "至潮影城"
+                    },
+                    {
+                        "code": "1015",
+                        "count": "1",
+                        "title": "橙天嘉禾"
+                    },
+                    {
+                        "code": "4022",
+                        "count": "1",
+                        "title": "华夏影城"
+                    },
+                    {
+                        "code": "4009",
+                        "count": "1",
+                        "title": "金字塔国际影城"
+                    },
+                    {
+                        "code": "1018",
+                        "count": "1",
+                        "title": "卢米埃影城"
+                    },
+                    {
+                        "code": "4057",
+                        "count": "1",
+                        "title": "时代影城"
+                    },
+                    {
+                        "code": "1006",
+                        "count": "1",
+                        "title": "UME影城"
+                    },
+                    {
+                        "code": "7301",
+                        "count": "1",
+                        "title": "万象影城"
+                    },
+                    {
+                        "code": "4006",
+                        "count": "1",
+                        "title": "银河欢乐影城"
+                    },
+                    {
+                        "code": "-9999",
+                        "count": "90",
+                        "title": "其他"
+                    }
+                ],
+                "filterGroupList": [
+                    {
+                        "groupId": "2",
+                        "groupName": "放映影厅",
+                        "url": "https://h5.m.taobao.com/app/movie/pages/cinema-info/index.html"
+                    },
+                    {
+                        "groupId": "3",
+                        "groupName": "影院服务"
+                    }
+                ],
+                "mallCode": "ALL",
+                "memberSupportFilters": [],
+                "regionName": "",
+                "regionNameFilters": [
+                    {
+                        "code": "滨江区",
+                        "title": "滨江区"
+                    },
+                    {
+                        "code": "淳安县",
+                        "title": "淳安县"
+                    },
+                    {
+                        "code": "富阳区",
+                        "title": "富阳区"
+                    },
+                    {
+                        "code": "拱墅区",
+                        "title": "拱墅区"
+                    },
+                    {
+                        "code": "建德市",
+                        "title": "建德市"
+                    },
+                    {
+                        "code": "江干区",
+                        "title": "江干区"
+                    },
+                    {
+                        "code": "临安区",
+                        "title": "临安区"
+                    },
+                    {
+                        "code": "上城区",
+                        "title": "上城区"
+                    },
+                    {
+                        "code": "桐庐县",
+                        "title": "桐庐县"
+                    },
+                    {
+                        "code": "下城区",
+                        "title": "下城区"
+                    },
+                    {
+                        "code": "萧山区",
+                        "title": "萧山区"
+                    },
+                    {
+                        "code": "下沙经济开发区",
+                        "title": "下沙经济开发区"
+                    },
+                    {
+                        "code": "西湖区",
+                        "title": "西湖区"
+                    },
+                    {
+                        "code": "余杭区",
+                        "title": "余杭区"
+                    }
+                ],
+                "sortType": "3",
+                "sortTypeFilters": [
+                    {
+                        "code": "3",
+                        "title": "综合排序"
+                    },
+                    {
+                        "code": "1",
+                        "title": "离我最近"
+                    },
+                    {
+                        "code": "2",
+                        "title": "价格最低"
+                    }
+                ],
+                "stationCode": "",
+                "subwayCode": "",
+                "subwayStationFilters": [
+                    {
+                        "code": "ALL",
+                        "count": "0",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "172",
+                                "title": "全部"
+                            }
+                        ],
+                        "title": "全部"
+                    },
+                    {
+                        "code": "96",
+                        "count": "36",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "36",
+                                "title": "全部"
+                            },
+                            {
+                                "code": "26706",
+                                "count": "6",
+                                "title": "凤起路"
+                            },
+                            {
+                                "code": "26301",
+                                "count": "4",
+                                "title": "龙翔桥"
+                            },
+                            {
+                                "code": "27626",
+                                "count": "4",
+                                "title": "高沙路"
+                            },
+                            {
+                                "code": "30115",
+                                "count": "4",
+                                "title": "武林广场"
+                            },
+                            {
+                                "code": "26077",
+                                "count": "3",
+                                "title": "文泽路"
+                            },
+                            {
+                                "code": "28950",
+                                "count": "3",
+                                "title": "江陵路"
+                            },
+                            {
+                                "code": "29750",
+                                "count": "3",
+                                "title": "金沙湖"
+                            },
+                            {
+                                "code": "26744",
+                                "count": "2",
+                                "title": "南苑"
+                            },
+                            {
+                                "code": "27315",
+                                "count": "2",
+                                "title": "云水"
+                            },
+                            {
+                                "code": "29002",
+                                "count": "2",
+                                "title": "定安路"
+                            },
+                            {
+                                "code": "29196",
+                                "count": "2",
+                                "title": "火车东站"
+                            },
+                            {
+                                "code": "29385",
+                                "count": "2",
+                                "title": "西湖文化广场"
+                            },
+                            {
+                                "code": "26126",
+                                "count": "1",
+                                "title": "城站"
+                            },
+                            {
+                                "code": "26366",
+                                "count": "1",
+                                "title": "闸弄口"
+                            },
+                            {
+                                "code": "26599",
+                                "count": "1",
+                                "title": "下沙西"
+                            },
+                            {
+                                "code": "26782",
+                                "count": "1",
+                                "title": "临平"
+                            },
+                            {
+                                "code": "27183",
+                                "count": "1",
+                                "title": "西兴"
+                            },
+                            {
+                                "code": "27301",
+                                "count": "1",
+                                "title": "文海南路"
+                            },
+                            {
+                                "code": "28048",
+                                "count": "1",
+                                "title": "乔司"
+                            },
+                            {
+                                "code": "29033",
+                                "count": "1",
+                                "title": "客运中心"
+                            },
+                            {
+                                "code": "29217",
+                                "count": "1",
+                                "title": "彭埠"
+                            },
+                            {
+                                "code": "29300",
+                                "count": "1",
+                                "title": "九堡"
+                            },
+                            {
+                                "code": "29627",
+                                "count": "1",
+                                "title": "打铁关"
+                            },
+                            {
+                                "code": "30322",
+                                "count": "1",
+                                "title": "近江"
+                            },
+                            {
+                                "code": "30413",
+                                "count": "1",
+                                "title": "婺江路"
+                            }
+                        ],
+                        "title": "1号线"
+                    },
+                    {
+                        "code": "95",
+                        "count": "25",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "25",
+                                "title": "全部"
+                            },
+                            {
+                                "code": "26706",
+                                "count": "6",
+                                "title": "凤起路"
+                            },
+                            {
+                                "code": "28339",
+                                "count": "4",
+                                "title": "武林门"
+                            },
+                            {
+                                "code": "29655",
+                                "count": "3",
+                                "title": "中河北路"
+                            },
+                            {
+                                "code": "30453",
+                                "count": "3",
+                                "title": "钱江路"
+                            },
+                            {
+                                "code": "28603",
+                                "count": "2",
+                                "title": "文新"
+                            },
+                            {
+                                "code": "29026",
+                                "count": "2",
+                                "title": "建国北路"
+                            },
+                            {
+                                "code": "29119",
+                                "count": "2",
+                                "title": "墩祥街"
+                            },
+                            {
+                                "code": "29419",
+                                "count": "2",
+                                "title": "人民广场"
+                            },
+                            {
+                                "code": "29645",
+                                "count": "2",
+                                "title": "庆春广场"
+                            },
+                            {
+                                "code": "29998",
+                                "count": "2",
+                                "title": "金家渡"
+                            },
+                            {
+                                "code": "30370",
+                                "count": "2",
+                                "title": "杭发厂"
+                            },
+                            {
+                                "code": "26982",
+                                "count": "1",
+                                "title": "潘水"
+                            },
+                            {
+                                "code": "27893",
+                                "count": "1",
+                                "title": "钱江世纪城"
+                            },
+                            {
+                                "code": "28852",
+                                "count": "1",
+                                "title": "三坝"
+                            },
+                            {
+                                "code": "29179",
+                                "count": "1",
+                                "title": "沈塘桥"
+                            },
+                            {
+                                "code": "29510",
+                                "count": "1",
+                                "title": "杜甫村"
+                            },
+                            {
+                                "code": "29889",
+                                "count": "1",
+                                "title": "古翠路"
+                            },
+                            {
+                                "code": "30137",
+                                "count": "1",
+                                "title": "学院路"
+                            }
+                        ],
+                        "title": "2号线"
+                    },
+                    {
+                        "code": "98",
+                        "count": "13",
+                        "subFilters": [
+                            {
+                                "code": "ALL",
+                                "count": "13",
+                                "title": "全部"
+                            },
+                            {
+                                "code": "26204",
+                                "count": "3",
+                                "title": "市民中心"
+                            },
+                            {
+                                "code": "27680",
+                                "count": "3",
+                                "title": "新风"
+                            },
+                            {
+                                "code": "29748",
+                                "count": "3",
+                                "title": "杨家墩"
+                            },
+                            {
+                                "code": "30019",
+                                "count": "3",
+                                "title": "江锦路"
+                            },
+                            {
+                                "code": "30453",
+                                "count": "3",
+                                "title": "钱江路"
+                            },
+                            {
+                                "code": "25922",
+                                "count": "2",
+                                "title": "景芳"
+                            },
+                            {
+                                "code": "26040",
+                                "count": "2",
+                                "title": "中医药大学"
+                            },
+                            {
+                                "code": "29196",
+                                "count": "2",
+                                "title": "火车东站"
+                            },
+                            {
+                                "code": "26593",
+                                "count": "1",
+                                "title": "城星路"
+                            },
+                            {
+                                "code": "27384",
+                                "count": "1",
+                                "title": "甬江路"
+                            },
+                            {
+                                "code": "28887",
+                                "count": "1",
+                                "title": "新塘"
+                            },
+                            {
+                                "code": "29217",
+                                "count": "1",
+                                "title": "彭埠"
+                            },
+                            {
+                                "code": "29333",
+                                "count": "1",
+                                "title": "浦沿"
+                            },
+                            {
+                                "code": "30322",
+                                "count": "1",
+                                "title": "近江"
+                            }
+                        ],
+                        "title": "4号线"
+                    }
+                ],
+                "supportDates": [],
+                "supportFilters": [
+                    {
+                        "code": "8",
+                        "groupId": "3",
+                        "title": "退票"
+                    },
+                    {
+                        "code": "23",
+                        "groupId": "3",
+                        "title": "改签"
+                    },
+                    {
+                        "code": "3",
+                        "groupId": "3",
+                        "title": "观影小食"
+                    },
+                    {
+                        "code": "22",
+                        "groupId": "3",
+                        "title": "3D眼镜收费"
+                    },
+                    {
+                        "code": "11",
+                        "groupId": "2",
+                        "title": "IMAX厅"
+                    },
+                    {
+                        "code": "27",
+                        "groupId": "2",
+                        "title": "CGS中国巨幕厅"
+                    },
+                    {
+                        "code": "29",
+                        "groupId": "2",
+                        "title": "MX4D厅"
+                    },
+                    {
+                        "code": "20",
+                        "groupId": "2",
+                        "title": "4DX厅"
+                    },
+                    {
+                        "code": "34",
+                        "groupId": "2",
+                        "title": "SCREENX"
+                    },
+                    {
+                        "code": "33",
+                        "groupId": "2",
+                        "title": "杜比影院"
+                    },
+                    {
+                        "code": "32",
+                        "groupId": "2",
+                        "title": "DTS临境音"
+                    },
+                    {
+                        "code": "31",
+                        "groupId": "2",
+                        "title": "StarMAX"
+                    },
+                    {
+                        "code": "30",
+                        "groupId": "2",
+                        "title": "艺术影厅"
+                    },
+                    {
+                        "code": "10",
+                        "groupId": "3",
+                        "title": "VIP厅"
+                    },
+                    {
+                        "code": "12",
+                        "groupId": "2",
+                        "title": "巨幕厅"
+                    },
+                    {
+                        "code": "15",
+                        "groupId": "2",
+                        "title": "杜比全景声厅"
+                    },
+                    {
+                        "code": "17",
+                        "groupId": "2",
+                        "title": "realD厅"
+                    },
+                    {
+                        "code": "28",
+                        "groupId": "2",
+                        "title": "激光厅"
+                    },
+                    {
+                        "code": "13",
+                        "groupId": "2",
+                        "title": "4D厅"
+                    },
+                    {
+                        "code": "16",
+                        "groupId": "2",
+                        "title": "4K厅"
+                    },
+                    {
+                        "code": "18",
+                        "groupId": "2",
+                        "title": "双机3D"
+                    },
+                    {
+                        "code": "1",
+                        "groupId": "3",
+                        "title": "可停车"
+                    }
+                ],
+                "time": "",
+                "timeFilters": [],
+                "versionCode": "",
+                "versionFilters": []
+            },
+            "cinemas": [
+                {
+                    "activityTags": [
+                        {
+                            "tag": "惠",
+                            "tagType": "3",
+                            "title": "哪吒之魔童降世等6部影片特惠"
+                        }
+                    ],
+                    "address": "滨江区江南大道1090号家具大世界3楼(长河路和滨和路交叉口)",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "87"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "36502",
+                    "cinemaName": "保利国际影城-杭州中南乐游城店",
+                    "displaySupports": [
+                        "观影小食",
+                        "艺术影厅",
+                        "可停车"
+                    ],
+                    "distance": "0.7",
+                    "latitude": "30.195307",
+                    "longitude": "120.192333",
+                    "mcardOpen": "false",
+                    "minPrice": "1990",
+                    "scheduleCloseTime": "15",
+                    "scheduleCount": "198",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "惠",
+                            "tagType": "3",
+                            "title": "哪吒之魔童降世等5部影片特惠"
+                        }
+                    ],
+                    "address": "滨江区信诚路857号乐缤纷世茂中心5楼悦江新远影城",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "87"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "38048",
+                    "cinemaName": "悦江新远影城IMAX",
+                    "displaySupports": [
+                        "改签",
+                        "观影小食",
+                        "IMAX厅",
+                        "可停车"
+                    ],
+                    "distance": "1.7",
+                    "latitude": "30.193848",
+                    "longitude": "120.169133",
+                    "mcardOpen": "false",
+                    "minPrice": "1700",
+                    "scheduleCloseTime": "0",
+                    "scheduleCount": "91",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "惠",
+                            "tagType": "3",
+                            "title": "哪吒之魔童降世等5部影片特惠"
+                        }
+                    ],
+                    "address": "滨江区滨盛路3867号宝龙城5楼（2号门直梯直达）",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "87"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "41650",
+                    "cinemaName": "杭州百老汇影城滨江宝龙店",
+                    "displaySupports": [
+                        "观影小食",
+                        "艺术影厅"
+                    ],
+                    "distance": "1.9",
+                    "latitude": "30.188441",
+                    "longitude": "120.167206",
+                    "mcardOpen": "false",
+                    "minPrice": "4170",
+                    "scheduleCloseTime": "20",
+                    "scheduleCount": "146",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "惠",
+                            "tagType": "3",
+                            "title": "哪吒之魔童降世等6部影片特惠"
+                        },
+                        {
+                            "tag": "星",
+                            "tagType": "6",
+                            "title": "哪吒之魔童降世明星见面会"
+                        }
+                    ],
+                    "address": "滨江区江汉路1515号龙湖滨江天街5楼",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "87"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "45812",
+                    "cinemaName": "CGV影城（滨江天街IMAX店）",
+                    "displaySupports": [
+                        "观影小食",
+                        "IMAX厅"
+                    ],
+                    "distance": "2.0",
+                    "latitude": "30.201102",
+                    "longitude": "120.204011",
+                    "mcardOpen": "false",
+                    "minPrice": "1900",
+                    "scheduleCloseTime": "0",
+                    "scheduleCount": "170",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "惠",
+                            "tagType": "3",
+                            "title": "哪吒之魔童降世等7部影片特惠"
+                        }
+                    ],
+                    "address": "滨江区滨文路422号文耀大厦3层",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "87"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "34968",
+                    "cinemaName": "德信影城（滨江文耀店）",
+                    "displaySupports": [
+                        "退票",
+                        "改签",
+                        "艺术影厅",
+                        "可停车"
+                    ],
+                    "distance": "2.6",
+                    "latitude": "30.174218",
+                    "longitude": "120.168268",
+                    "mcardOpen": "false",
+                    "minPrice": "1990",
+                    "scheduleCloseTime": "1",
+                    "scheduleCount": "125",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "惠",
+                            "tagType": "3",
+                            "title": "哪吒之魔童降世等5部影片特惠"
+                        }
+                    ],
+                    "address": "滨江区江南大道228号星光国际广场2号楼4层(近滨江区政府)",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "87"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "4497",
+                    "cinemaName": "中影国际影城杭州星光大道店",
+                    "displaySupports": [
+                        "观影小食",
+                        "可停车"
+                    ],
+                    "distance": "2.8",
+                    "latitude": "30.207331",
+                    "longitude": "120.208902",
+                    "mcardOpen": "false",
+                    "minPrice": "1990",
+                    "scheduleCloseTime": "5",
+                    "scheduleCount": "50",
+                    "subwayIds": [
+                        "96"
+                    ],
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "惠",
+                            "tagType": "3",
+                            "title": "哪吒之魔童降世等7部影片特惠"
+                        },
+                        {
+                            "tag": "星",
+                            "tagType": "6",
+                            "title": "上海堡垒明星见面会"
+                        }
+                    ],
+                    "address": "滨江区闻涛路与星飞路交叉口，星光大道二期四楼北面靠江边（影城22:00后出入口:闻涛路蓝山咖啡旁天桥下星光大道8、9号电梯上四楼；进入地下停车场后请根据影城标志至商业电梯厅乘坐电梯至四楼",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "87"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "31305",
+                    "cinemaName": "中影国际影城杭州星光大道二期店",
+                    "displaySupports": [
+                        "观影小食",
+                        "CGS中国巨幕厅",
+                        "可停车"
+                    ],
+                    "distance": "2.9",
+                    "latitude": "30.211801",
+                    "longitude": "120.206191",
+                    "mcardOpen": "false",
+                    "minPrice": "1990",
+                    "scheduleCloseTime": "5",
+                    "scheduleCount": "142",
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "惠",
+                            "tagType": "3",
+                            "title": "哪吒之魔童降世等7部影片特惠"
+                        }
+                    ],
+                    "address": "滨江区江陵路与滨康路交叉口兴耀鑫都汇广场北楼四楼",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "87"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "43139",
+                    "cinemaName": "杭州嘉年华国际影城",
+                    "displaySupports": [
+                        "改签",
+                        "观影小食",
+                        "艺术影厅",
+                        "可停车"
+                    ],
+                    "distance": "3.2",
+                    "latitude": "30.182925",
+                    "longitude": "120.218288",
+                    "mcardOpen": "false",
+                    "minPrice": "1990",
+                    "scheduleCloseTime": "0",
+                    "scheduleCount": "310",
+                    "subwayIds": [
+                        "96"
+                    ],
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [
+                        {
+                            "tag": "惠",
+                            "tagType": "3",
+                            "title": "哪吒之魔童降世等5部影片特惠"
+                        }
+                    ],
+                    "address": "滨江区江陵路2028号星耀城3幢3楼",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "87"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "31251",
+                    "cinemaName": "太平洋影城（滨江店）",
+                    "displaySupports": [
+                        "观影小食",
+                        "杜比全景声厅",
+                        "可停车"
+                    ],
+                    "distance": "3.6",
+                    "latitude": "30.212492",
+                    "longitude": "120.21533",
+                    "mcardOpen": "false",
+                    "minPrice": "1500",
+                    "scheduleCloseTime": "1",
+                    "scheduleCount": "73",
+                    "subwayIds": [
+                        "96"
+                    ],
+                    "supportMcard": "false"
+                },
+                {
+                    "activityTags": [],
+                    "address": "滨江区西兴街道江陵路1916号星耀城II期三——四楼",
+                    "alwaysGO": "false",
+                    "areaIds": [
+                        "87"
+                    ],
+                    "bizStatus": "3",
+                    "cinemaId": "42663",
+                    "cinemaName": "海上明珠国际影城杭州星耀城店",
+                    "displaySupports": [
+                        "观影小食",
+                        "IMAX厅",
+                        "VIP厅",
+                        "可停车"
+                    ],
+                    "distance": "3.6",
+                    "latitude": "30.211442",
+                    "longitude": "120.216454",
+                    "mcardOpen": "false",
+                    "minPrice": "3000",
+                    "scheduleCloseTime": "15",
+                    "scheduleCount": "94",
+                    "subwayIds": [
+                        "96"
+                    ],
+                    "supportMcard": "false"
+                }
+            ],
+            "noLoginTip": "登录后可查看常去影院"
+        },
+        "timestamp": "1564456140026"
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "7.5"
+}

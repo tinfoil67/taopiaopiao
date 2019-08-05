@@ -1,0 +1,351 @@
+{
+    "api": "mtop.film.mtopshowapi.getshowsbycitycode",
+    "data": {
+        "returnCode": "0",
+        "returnValue": [
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "日本",
+                "derivationList": [],
+                "director": "石塚敦子",
+                "duration": "107",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "344128",
+                "leadingRole": "松冈祯丞,茅野爱衣,日笠阳子,田村由加莉,井口裕香",
+                "openDay": "2019-07-19 00:00:00",
+                "openTime": "2019-07-19",
+                "orderCount": "0",
+                "poster": "i2/TB1RGkSaeL2gK0jSZFmXXc7iXXa_.jpg",
+                "previewNum": "4",
+                "remark": "8.9",
+                "scoreAndFavor": {
+                    "favorCount": "44800",
+                    "favorCountDesc": "4.5万 人想看",
+                    "score": {
+                        "score": "8.9",
+                        "scoreCount": "26919",
+                        "scoreCountDesc": "2.7万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "游戏人生 零",
+                "soldType": "NORMAL",
+                "type": "爱情,动画",
+                "userShowStatus": "0",
+                "wantCount": "44800"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "钟彧, 陆锦明",
+                "duration": "85",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1289214",
+                "openDay": "2019-07-05 00:00:00",
+                "openTime": "2019-07-05",
+                "orderCount": "0",
+                "poster": "i1/TB1ev2kd4iH3KVjSZPfXXXBiVXa_.jpg",
+                "previewNum": "10",
+                "remark": "8.2",
+                "scoreAndFavor": {
+                    "favorCount": "40483",
+                    "favorCountDesc": "4.0万 人想看",
+                    "score": {
+                        "score": "8.2",
+                        "scoreCount": "21799",
+                        "scoreCountDesc": "2.2万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "猪猪侠·不可思议的世界",
+                "soldType": "NORMAL",
+                "type": "喜剧,动画,冒险",
+                "userShowStatus": "0",
+                "wantCount": "40483"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "郑来志",
+                "duration": "98",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1236749",
+                "leadingRole": "王东,贡米,肖涵,巴多",
+                "openDay": "2019-08-02 00:00:00",
+                "openTime": "2019-08-02",
+                "orderCount": "0",
+                "poster": "i3/TB1PWopa4z1gK0jSZSgXXavwpXa_.jpg",
+                "preScheduleDates": [],
+                "previewNum": "6",
+                "scoreAndFavor": {
+                    "favorCount": "1903",
+                    "favorCountDesc": "1903 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "最美的地方遇见你",
+                "soldType": "PRE",
+                "type": "剧情,爱情",
+                "userShowStatus": "0",
+                "wantCount": "1903"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆,美国",
+                "derivationList": [],
+                "director": "赵锐, 克里斯托弗·詹金斯",
+                "duration": "90",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "228934",
+                "leadingRole": "赵路,武皓栋,殷筱瑜,李蝉妃,童自荣",
+                "openDay": "2018-03-09 00:00:00",
+                "openTime": "2018-03-09",
+                "orderCount": "0",
+                "poster": "i1/TB1rShvX5MnBKNjSZFCXXX0KFXa_.jpg",
+                "preScheduleRemark": "8.6",
+                "previewNum": "31",
+                "remark": "8.6",
+                "scoreAndFavor": {
+                    "favorCount": "80317",
+                    "favorCountDesc": "8.0万 人想看",
+                    "score": {
+                        "score": "8.6",
+                        "scoreCount": "74222",
+                        "scoreCountDesc": "7.4万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "妈妈咪鸭",
+                "soldType": "NORMAL",
+                "type": "冒险,家庭,喜剧,动画",
+                "userShowStatus": "0",
+                "wantCount": "80317"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "日本",
+                "derivationList": [],
+                "director": "宫崎骏",
+                "duration": "125",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "40817",
+                "leadingRole": "周冬雨,柊瑠美,井柏然,入野自由,彭昱畅,中村彰男,田壮壮,菅原文太,王琳,夏木真理,内藤刚志",
+                "openDay": "2019-06-21 08:00:00",
+                "openTime": "2019-06-21 08:00",
+                "orderCount": "0",
+                "poster": "i3/TB17szMX79E3KVjSZFGXXc19XXa_.jpg",
+                "preScheduleRemark": "9.6",
+                "previewNum": "14",
+                "remark": "9.3",
+                "scoreAndFavor": {
+                    "favorCount": "371394",
+                    "favorCountDesc": "37.1万 人想看",
+                    "score": {
+                        "score": "9.3",
+                        "scoreCount": "492777",
+                        "scoreCountDesc": "49.3万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "2D 中国巨幕",
+                "showName": "千与千寻",
+                "soldType": "NORMAL",
+                "type": "动画,冒险,奇幻,家庭",
+                "userShowStatus": "0",
+                "wantCount": "371394"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "法国",
+                "derivationList": [],
+                "director": "吕克·雅盖",
+                "duration": "85",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "213687",
+                "leadingRole": "朗贝尔·维尔森,皮弗,托马斯·阿克达,摩根·弗里曼",
+                "openDay": "2018-10-12 00:00:00",
+                "openTime": "2018-10-12",
+                "orderCount": "0",
+                "poster": "i3/TB1Tx_lgwHqK1RjSZFPXXcwapXa_.jpg",
+                "previewNum": "2",
+                "remark": "8.4",
+                "scoreAndFavor": {
+                    "favorCount": "13110",
+                    "favorCountDesc": "1.3万 人想看",
+                    "score": {
+                        "score": "8.4",
+                        "scoreCount": "7134",
+                        "scoreCountDesc": "7134 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "帝企鹅日记2：召唤",
+                "soldType": "NORMAL",
+                "type": "纪录片",
+                "userShowStatus": "0",
+                "wantCount": "13110"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "黎巴嫩,法国,美国",
+                "derivationList": [],
+                "director": "娜丁·拉巴基",
+                "duration": "117",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1277985",
+                "leadingRole": "赞恩·阿尔·拉菲亚,约丹诺斯·希费罗,博鲁瓦蒂夫·特雷杰·班科尔",
+                "openDay": "2019-04-29 00:00:00",
+                "openTime": "2019-04-29",
+                "orderCount": "0",
+                "poster": "i1/TB1FbtbTwHqK1RjSZFkXXX.WFXa_.jpg",
+                "preScheduleRemark": "9.2",
+                "previewNum": "6",
+                "remark": "9.1",
+                "scoreAndFavor": {
+                    "favorCount": "243633",
+                    "favorCountDesc": "24.4万 人想看",
+                    "score": {
+                        "score": "9.1",
+                        "scoreCount": "428680",
+                        "scoreCountDesc": "42.9万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "何以为家",
+                "soldType": "NORMAL",
+                "type": "剧情",
+                "userShowStatus": "0",
+                "wantCount": "243633"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆,英国,西班牙",
+                "derivationList": [],
+                "director": "托尼·班克罗夫特",
+                "duration": "91",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "314952",
+                "leadingRole": "艾米莉·布朗特,约翰·卡拉辛斯基,伊恩·麦克莱恩,西尔维斯特·史泰龙,丹尼·德维托",
+                "openDay": "2018-07-21 00:00:00",
+                "openTime": "2018-07-21",
+                "orderCount": "0",
+                "poster": "i3/TB1aaKjldcnBKNjSZR0XXcFqFXa_.jpg",
+                "previewNum": "10",
+                "remark": "8.3",
+                "scoreAndFavor": {
+                    "favorCount": "52115",
+                    "favorCountDesc": "5.2万 人想看",
+                    "score": {
+                        "score": "8.3",
+                        "scoreCount": "39546",
+                        "scoreCountDesc": "4.0万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "3D 中国巨幕",
+                "showName": "神奇马戏团",
+                "soldType": "NORMAL",
+                "type": "动画,喜剧,家庭,奇幻,冒险",
+                "userShowStatus": "0",
+                "wantCount": "52115"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "泰国",
+                "derivationList": [],
+                "director": "查亚洛普·布恩帕拉科布",
+                "duration": "120",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1317269",
+                "leadingRole": "平采娜·乐维瑟派布恩,Nutthasit Kotimanuswanich",
+                "openDay": "2019-08-02 00:00:00",
+                "openTime": "2019-08-02",
+                "orderCount": "0",
+                "poster": "i1/TB15dRcXkY2gK0jSZFgXXc5OFXa_.jpg",
+                "preScheduleDates": [],
+                "previewNum": "3",
+                "scoreAndFavor": {
+                    "favorCount": "15766",
+                    "favorCountDesc": "1.6万 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "友情以上",
+                "soldType": "PRE",
+                "type": "剧情,爱情",
+                "userShowStatus": "0",
+                "wantCount": "15766"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "廉涛",
+                "duration": "83",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1310751",
+                "leadingRole": "黄奕,范逸臣,程小夏,吴烨,马卷卷",
+                "openDay": "2019-06-21 00:00:00",
+                "openTime": "2019-06-21",
+                "orderCount": "0",
+                "poster": "i2/TB14_fLbQ5E3KVjSZFCXXbuzXXa_.jpg",
+                "previewNum": "7",
+                "remark": "7.8",
+                "scoreAndFavor": {
+                    "favorCount": "28595",
+                    "favorCountDesc": "2.9万 人想看",
+                    "score": {
+                        "score": "7.8",
+                        "scoreCount": "31306",
+                        "scoreCountDesc": "3.1万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "碟仙",
+                "soldType": "NORMAL",
+                "type": "恐怖,惊悚",
+                "userShowStatus": "0",
+                "wantCount": "28595"
+            }
+        ],
+        "timestamp": "1564479574250"
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "4.0"
+}

@@ -1,0 +1,382 @@
+{
+    "api": "mtop.film.mtopshowapi.getshowsbycitycode",
+    "data": {
+        "returnCode": "0",
+        "returnValue": [
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "西班牙,阿根廷",
+                "derivationList": [],
+                "director": "罗德里戈·格兰德",
+                "duration": "120",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "216118",
+                "leadingRole": "莱昂纳多·斯巴拉格利亚,克拉拉·拉戈,Uma Salduende,帕布罗·伊查瑞",
+                "openDay": "2019-07-25 18:00:00",
+                "openTime": "2019-07-25 18:00",
+                "orderCount": "0",
+                "poster": "i3/TB1Byukbbr1gK0jSZR0XXbP8XXa_.jpg",
+                "previewNum": "8",
+                "remark": "8.5",
+                "scoreAndFavor": {
+                    "favorCount": "14563",
+                    "favorCountDesc": "1.5万 人想看",
+                    "score": {
+                        "score": "8.5",
+                        "scoreCount": "13307",
+                        "scoreCountDesc": "1.3万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "隧道尽头",
+                "soldType": "NORMAL",
+                "type": "犯罪,悬疑",
+                "userShowStatus": "0",
+                "wantCount": "14563"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "束焕, 邵丹",
+                "duration": "106",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1269926",
+                "leadingRole": "岳云鹏,佟丽娅,田雨,袁弘,韩童生",
+                "openDay": "2019-08-02 00:00:00",
+                "openTime": "2019-08-02",
+                "orderCount": "0",
+                "poster": "i3/TB1xgnvbND1gK0jSZFyXXciOVXa_.jpg",
+                "preScheduleDates": [],
+                "preScheduleRemark": "8.9",
+                "previewNum": "10",
+                "scoreAndFavor": {
+                    "favorCount": "99480",
+                    "favorCountDesc": "9.9万 人想看",
+                    "score": {
+                        "score": "8.9",
+                        "scoreCount": "738",
+                        "scoreCountDesc": "738 人评",
+                        "scoreName": "点映评分",
+                        "scoreType": "2"
+                    }
+                },
+                "showName": "鼠胆英雄",
+                "soldType": "PRE",
+                "type": "喜剧,爱情",
+                "userShowStatus": "0",
+                "wantCount": "99480"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "美国",
+                "derivationList": [],
+                "director": "乔·沃茨",
+                "duration": "127",
+                "fantastic": "1",
+                "fromSearch": "false",
+                "id": "358007",
+                "leadingRole": "汤姆·赫兰德,杰克·吉伦哈尔,塞缪尔·杰克逊,赞达亚·科尔曼,玛丽莎·托梅,迈克尔·基顿,雅各布·巴特朗",
+                "openDay": "2019-06-28 00:00:00",
+                "openTime": "2019-06-28",
+                "orderCount": "0",
+                "poster": "i3/TB1TDW4a75E3KVjSZFCXXbuzXXa_.jpg",
+                "previewNum": "48",
+                "remark": "8.9",
+                "scoreAndFavor": {
+                    "favorCount": "2070654",
+                    "favorCountDesc": "207.1万 人想看",
+                    "score": {
+                        "score": "8.9",
+                        "scoreCount": "1122911",
+                        "scoreCountDesc": "112.3万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "3D IMAX",
+                "showName": "蜘蛛侠：英雄远征",
+                "soldType": "NORMAL",
+                "type": "动作,冒险,科幻",
+                "userShowStatus": "0",
+                "wantCount": "2070654"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "伊萨拉·纳迪",
+                "duration": "93",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1286053",
+                "leadingRole": "裴蒂·赫格莉,陈锦昀,段超,单思杰,胡盛,王景晨",
+                "openDay": "2019-07-19 00:00:00",
+                "openTime": "2019-07-19",
+                "orderCount": "0",
+                "poster": "i2/TB1G7uQXAL0gK0jSZFAXXcA9pXa_.jpg",
+                "previewNum": "5",
+                "remark": "7.4",
+                "scoreAndFavor": {
+                    "favorCount": "33846",
+                    "favorCountDesc": "3.4万 人想看",
+                    "score": {
+                        "score": "7.4",
+                        "scoreCount": "12183",
+                        "scoreCountDesc": "1.2万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "看不见的小孩",
+                "soldType": "NORMAL",
+                "type": "恐怖,惊悚,悬疑",
+                "userShowStatus": "0",
+                "wantCount": "33846"
+            },
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "特惠",
+                        "activityTitle": "特惠抢票，名额有限抢完即止",
+                        "id": "151342",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：7月29日 -8月2日10：00-22：00，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，最多可购买2张特惠电影票。（注：同一用户定义：账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：账号实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票客服电话：0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "adLink": "",
+                "adUrl": "",
+                "country": "俄罗斯",
+                "derivationList": [],
+                "director": "阿列克谢·特斯蒂斯林, 刘凌峰, 罗伯特·伦塞",
+                "duration": "88",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1300251",
+                "openDay": "2019-08-02 00:00:00",
+                "openTime": "2019-08-02",
+                "orderCount": "0",
+                "poster": "i2/TB11OI5d7WE3KVjSZSyXXXocXXa_.jpg",
+                "preScheduleDates": [],
+                "previewNum": "22",
+                "scoreAndFavor": {
+                    "favorCount": "166303",
+                    "favorCountDesc": "16.6万 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "3D",
+                "showName": "冰雪女王4：魔镜世界",
+                "soldType": "PRE",
+                "type": "动画,冒险,奇幻",
+                "userShowStatus": "0",
+                "wantCount": "166303"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "黄家康, 赵霁",
+                "duration": "99",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1289939",
+                "leadingRole": "杨天翔,张喆,张遥函,郑小璞",
+                "openDay": "2019-01-11 08:00:00",
+                "openTime": "2019-01-11 08:00",
+                "orderCount": "0",
+                "poster": "i3/TB1eVdkByLaK1RjSZFxXXamPFXa_.jpg",
+                "preScheduleRemark": "9.1",
+                "previewNum": "18",
+                "remark": "9.1",
+                "scoreAndFavor": {
+                    "favorCount": "211431",
+                    "favorCountDesc": "21.1万 人想看",
+                    "score": {
+                        "score": "9.1",
+                        "scoreCount": "684678",
+                        "scoreCountDesc": "68.5万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "2D 中国巨幕",
+                "showName": "白蛇：缘起",
+                "soldType": "NORMAL",
+                "type": "爱情,奇幻,动画",
+                "userShowStatus": "0",
+                "wantCount": "211431"
+            },
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "特惠",
+                        "activityTitle": "特惠抢票，名额有限抢完即止",
+                        "id": "149642",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：7月22日-8月4日10:00-22:00，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-电影票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，最多可购买2张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。） \n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票可在法律允许的范围内对活动规则进行适当变更或调整，相关变更或调整将公布在活动页面上，或以短信、页面消息、公告等合适的方式及时通知。如有任何问题可拨打淘票票客服电话0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国",
+                "derivationList": [],
+                "director": "王章俊",
+                "duration": "98",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1303187",
+                "leadingRole": "胡谦,李晔,罗玉婷,王晓彤",
+                "openDay": "2019-08-02 00:00:00",
+                "openTime": "2019-08-02",
+                "orderCount": "0",
+                "poster": "i2/TB1DgAaXuH2gK0jSZJnXXaT1FXa_.jpg",
+                "preScheduleDates": [],
+                "preScheduleRemark": "8.7",
+                "previewNum": "5",
+                "scoreAndFavor": {
+                    "favorCount": "11604",
+                    "favorCountDesc": "1.2万 人想看",
+                    "score": {
+                        "score": "8.7",
+                        "scoreCount": "2356",
+                        "scoreCountDesc": "2356 人评",
+                        "scoreName": "点映评分",
+                        "scoreType": "2"
+                    }
+                },
+                "showMark": "3D",
+                "showName": "赛尔号大电影7：疯狂机器城",
+                "soldType": "PRE",
+                "type": "冒险,动画,喜剧",
+                "userShowStatus": "0",
+                "wantCount": "11604"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "美国",
+                "derivationList": [],
+                "director": "克里斯·雷纳德",
+                "duration": "86",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "345684",
+                "leadingRole": "冯绍峰,帕顿·奥斯瓦尔特,陈佩斯,凯文·哈特,冯小刚,哈里森·福特,郭采洁,珍妮·斯蕾特,马丽,蒂凡尼·哈迪斯",
+                "openDay": "2019-07-05 00:00:00",
+                "openTime": "2019-07-05",
+                "orderCount": "0",
+                "poster": "i2/TB1Efswc7WE3KVjSZSyXXXocXXa_.jpg",
+                "previewNum": "38",
+                "remark": "8.9",
+                "scoreAndFavor": {
+                    "favorCount": "227738",
+                    "favorCountDesc": "22.8万 人想看",
+                    "score": {
+                        "score": "8.9",
+                        "scoreCount": "139977",
+                        "scoreCountDesc": "14.0万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "3D 中国巨幕",
+                "showName": "爱宠大机密2",
+                "soldType": "NORMAL",
+                "type": "动作,冒险,喜剧",
+                "userShowStatus": "0",
+                "wantCount": "227738"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "安恪温, 龙子乔",
+                "duration": "107",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1278642",
+                "leadingRole": "冯远征,石班瑜,韩莹棣,郑海音,涂松岩,杨婷,约翰·卡拉辛斯基",
+                "openDay": "2019-07-19 00:00:00",
+                "openTime": "2019-07-19",
+                "orderCount": "0",
+                "poster": "i1/TB173o8XEz1gK0jSZLeXXb9kVXa_.jpg",
+                "previewNum": "17",
+                "remark": "8.2",
+                "scoreAndFavor": {
+                    "favorCount": "205266",
+                    "favorCountDesc": "20.5万 人想看",
+                    "score": {
+                        "score": "8.2",
+                        "scoreCount": "25330",
+                        "scoreCountDesc": "2.5万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "3D",
+                "showName": "未来机器城",
+                "soldType": "NORMAL",
+                "type": "冒险,喜剧,科幻,动画",
+                "userShowStatus": "0",
+                "wantCount": "205266"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "美国",
+                "derivationList": [],
+                "director": "迈克尔·诺尔",
+                "duration": "109",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "520628",
+                "leadingRole": "查理·汉纳姆,拉米·马雷克,汤米·弗拉纳根,伊芙·休森",
+                "openDay": "2019-07-26 00:00:00",
+                "openTime": "2019-07-26",
+                "orderCount": "0",
+                "poster": "i3/TB17HALaxv1gK0jSZFFXXb0sXXa_.jpg",
+                "previewNum": "5",
+                "remark": "8.4",
+                "scoreAndFavor": {
+                    "favorCount": "7631",
+                    "favorCountDesc": "7631 人想看",
+                    "score": {
+                        "score": "8.4",
+                        "scoreCount": "949",
+                        "scoreCountDesc": "949 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "巴比龙",
+                "soldType": "NORMAL",
+                "type": "剧情,传记,犯罪",
+                "userShowStatus": "0",
+                "wantCount": "7631"
+            }
+        ],
+        "timestamp": "1564479516783"
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "4.0"
+}

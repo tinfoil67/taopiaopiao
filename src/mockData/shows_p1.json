@@ -1,0 +1,413 @@
+{
+    "api": "mtop.film.mtopshowapi.getshowsbycitycode",
+    "data": {
+        "returnCode": "0",
+        "returnValue": [
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "特惠",
+                        "activityTitle": "特惠抢票，名额有限抢完即止",
+                        "id": "151374",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：7月23日-8月4日10:00-22:00，限量开抢。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-电影票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，最多可购买2张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。） \n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票可在法律允许的范围内对活动规则进行适当变更或调整，相关变更或调整将公布在活动页面上，或以短信、页面消息、公告等合适的方式及时通知。如有任何问题可拨打淘票票客服电话0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "饺子",
+                "duration": "110",
+                "fantastic": "22",
+                "fromSearch": "false",
+                "id": "230419",
+                "leadingRole": "吕艳婷,囧森瑟夫,瀚墨,陈浩,绿绮,杨卫,张珈铭",
+                "openDay": "2019-07-26 08:00:00",
+                "openTime": "2019-07-26 08:00",
+                "orderCount": "0",
+                "poster": "i1/TB1OqhKbrH1gK0jSZFwXXc7aXXa_.jpg",
+                "preScheduleRemark": "9.5",
+                "previewNum": "15",
+                "remark": "9.6",
+                "scoreAndFavor": {
+                    "favorCount": "403677",
+                    "favorCountDesc": "40.4万 人想看",
+                    "score": {
+                        "score": "9.6",
+                        "scoreCount": "685760",
+                        "scoreCountDesc": "68.6万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "3D",
+                "showName": "哪吒之魔童降世",
+                "soldType": "NORMAL",
+                "starMeeting": {
+                    "schedulesUrl": "https://h5.m.taopiaopiao.com/app/movie/pages/index/star-meeting.html?cityCode=330100&showId=230419",
+                    "tag": "明星见面会",
+                    "title": "饺子、刘文章等明星出席，去抢票"
+                },
+                "type": "动画",
+                "userShowStatus": "0",
+                "wantCount": "403677"
+            },
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "特惠",
+                        "activityTitle": "《烈火英雄》特惠抢票，抢完即止！",
+                        "id": "151319",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：7月29日至8月1日每天10点—24点，限量抢购。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，最多可购买2张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票有权在法律允许范围内对活动规则做出适当调整。淘票票客服热线：0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "陈国辉",
+                "duration": "120",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1294564",
+                "leadingRole": "黄晓明,杜江,谭卓,杨紫,欧豪,侯勇,张哲瀚,谷嘉诚,印小天,高戈",
+                "openDay": "2019-08-01 00:00:00",
+                "openTime": "2019-08-01",
+                "orderCount": "0",
+                "poster": "i4/TB1.yQQeoGF3KVjSZFvXXb_nXXa_.jpg",
+                "preScheduleDates": [],
+                "preScheduleRemark": "9.3",
+                "previewNum": "17",
+                "scoreAndFavor": {
+                    "favorCount": "413069",
+                    "favorCountDesc": "41.3万 人想看",
+                    "score": {
+                        "score": "9.3",
+                        "scoreCount": "81804",
+                        "scoreCountDesc": "8.2万 人评",
+                        "scoreName": "点映评分",
+                        "scoreType": "2"
+                    }
+                },
+                "showMark": "2D IMAX",
+                "showName": "烈火英雄",
+                "soldType": "PRE",
+                "type": "剧情",
+                "userShowStatus": "0",
+                "wantCount": "413069"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "邓超, 俞白眉",
+                "duration": "147",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1288939",
+                "leadingRole": "邓超,白宇,任素汐,王西,孙浠伦,李建义,梁超,邵兵,王戈",
+                "openDay": "2019-07-18 08:00:00",
+                "openTime": "2019-07-18 08:00",
+                "orderCount": "0",
+                "poster": "i4/TB1gYNfXeP2gK0jSZFoXXauIVXa_.jpg",
+                "preScheduleRemark": "9.0",
+                "previewNum": "24",
+                "remark": "9.0",
+                "scoreAndFavor": {
+                    "favorCount": "388875",
+                    "favorCountDesc": "38.9万 人想看",
+                    "score": {
+                        "score": "9.0",
+                        "scoreCount": "536435",
+                        "scoreCountDesc": "53.6万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "2D IMAX",
+                "showName": "银河补习班",
+                "soldType": "NORMAL",
+                "type": "剧情,家庭",
+                "userShowStatus": "0",
+                "wantCount": "388875"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "美国",
+                "derivationList": [],
+                "director": "乔恩·费儒",
+                "duration": "118",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "826862",
+                "leadingRole": "唐纳德·格洛弗,塞斯·罗根,比利·艾希纳,切瓦特·埃加福特,约翰·奥利弗,阿尔法·伍达德,碧昂丝·诺尔斯,詹姆斯·厄尔·琼斯",
+                "openDay": "2019-07-12 00:00:00",
+                "openTime": "2019-07-12",
+                "orderCount": "0",
+                "poster": "i1/TB194kJXwFY.1VjSZFqXXadbXXa_.jpg",
+                "previewNum": "63",
+                "remark": "8.8",
+                "scoreAndFavor": {
+                    "favorCount": "953165",
+                    "favorCountDesc": "95.3万 人想看",
+                    "score": {
+                        "score": "8.8",
+                        "scoreCount": "568968",
+                        "scoreCountDesc": "56.9万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "3D IMAX",
+                "showName": "狮子王",
+                "soldType": "NORMAL",
+                "type": "剧情,冒险,动作",
+                "userShowStatus": "0",
+                "wantCount": "953165"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆,中国香港",
+                "derivationList": [],
+                "director": "邱礼涛",
+                "duration": "100",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1275253",
+                "leadingRole": "刘德华,古天乐,苗侨伟,林嘉欣,应采儿",
+                "openDay": "2019-07-05 00:00:00",
+                "openTime": "2019-07-05",
+                "orderCount": "0",
+                "poster": "i1/TB1sBqZb2Bj_uVjSZFpXXc0SXXa_.jpg",
+                "previewNum": "18",
+                "remark": "8.6",
+                "scoreAndFavor": {
+                    "favorCount": "782139",
+                    "favorCountDesc": "78.2万 人想看",
+                    "score": {
+                        "score": "8.6",
+                        "scoreCount": "845985",
+                        "scoreCountDesc": "84.6万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "2D 中国巨幕",
+                "showName": "扫毒2天地对决",
+                "soldType": "NORMAL",
+                "type": "剧情,动作,悬疑,犯罪",
+                "userShowStatus": "0",
+                "wantCount": "782139"
+            },
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "特惠",
+                        "activityTitle": "《跳舞吧！大象》特惠抢票，抢完即止！",
+                        "id": "151474",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：7月18日至8月4日每天10点—22点，限量抢购。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台（含淘票票客户端、支付宝钱包-淘票票、手机淘宝-特色好货-淘票票、微博－发现－电影等）购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，最多可购买2张特惠电影票。（注：同一用户定义：淘宝账号、支付宝账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：支付宝账号完成支付宝实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票客服热线：0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "林育贤",
+                "duration": "114",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1283871",
+                "leadingRole": "艾伦,金春花,彭杨,宋楠惜,静芳",
+                "openDay": "2019-07-26 08:00:00",
+                "openTime": "2019-07-26 08:00",
+                "orderCount": "0",
+                "poster": "i1/TB1UPA7aEY1gK0jSZFCXXcwqXXa_.jpg",
+                "previewNum": "19",
+                "remark": "7.7",
+                "scoreAndFavor": {
+                    "favorCount": "283932",
+                    "favorCountDesc": "28.4万 人想看",
+                    "score": {
+                        "score": "7.7",
+                        "scoreCount": "48750",
+                        "scoreCountDesc": "4.9万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "2D 中国巨幕",
+                "showName": "跳舞吧！大象",
+                "soldType": "NORMAL",
+                "type": "喜剧,剧情",
+                "userShowStatus": "0",
+                "wantCount": "283932"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "花明",
+                "duration": "91",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1223123",
+                "leadingRole": "侯明昊,彭昱畅,盖玥希",
+                "openDay": "2019-07-26 08:00:00",
+                "openTime": "2019-07-26 08:00",
+                "orderCount": "0",
+                "poster": "i2/TB1xmhdXhD1gK0jSZFsXXbldVXa_.jpg",
+                "previewNum": "9",
+                "remark": "7.8",
+                "scoreAndFavor": {
+                    "favorCount": "72946",
+                    "favorCountDesc": "7.3万 人想看",
+                    "score": {
+                        "score": "7.8",
+                        "scoreCount": "13909",
+                        "scoreCountDesc": "1.4万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "回到过去拥抱你",
+                "soldType": "NORMAL",
+                "type": "爱情,剧情",
+                "userShowStatus": "0",
+                "wantCount": "72946"
+            },
+            {
+                "activities": [
+                    {
+                        "activityExtType": "2",
+                        "activityTag": "特惠",
+                        "activityTitle": "特惠抢票，名额有限抢完即止",
+                        "id": "151334",
+                        "joinCount": "0",
+                        "joinLimit": "1",
+                        "longDescription": "1、活动时间：7月29日-8月2日10：00-22：00，限量抢购。先到先得，抢完即恢复原价。\n2、抢票规则：用户通过淘票票平台购买带有“特惠“活动标签的场次，即可享受对应的特惠观影价格。\n3、活动期内，同一用户同一影片只限享受1次活动票购买机会，最多可购买2张特惠电影票。（注：同一用户定义：账号、手机号、移动设备任一相同，即为同一用户。）\n4、参与用户限制：账号实名认证的用户方可参加此次活动。\n5、退换票规定：仅标有“退票”或“改签”标识的影院支持退换票，具体以下单页面说明为准，下单前请确认。\n6、在参加活动过程中，如果出现作弊行为（如批量注册、恶意购买、虚假交易等），淘票票将自动取消该用户本次活动的活动资格，并有权撤销违规交易及取消用户后续参加淘票票任何活动的权利，必要时将追究相关法律责任。\n7、淘票票可在法律允许的范围内对活动规则进行适当变更或调整，相关变更或调整将公布在活动页面上，或以短信、页面消息、公告等合适的方式及时通知。如有任何问题可拨打淘票票客服电话0571-88157838。",
+                        "seatLimit": "2"
+                    }
+                ],
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "滕华涛",
+                "duration": "107",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "227761",
+                "leadingRole": "鹿晗,舒淇,石凉,高以翔,王宫良,王森,孙嘉灵",
+                "openDay": "2019-08-09 08:00:00",
+                "openTime": "2019-08-09 08:00",
+                "orderCount": "0",
+                "poster": "i2/TB1tUHlbq61gK0jSZFlXXXDKFXa_.jpg",
+                "preScheduleDates": [],
+                "previewNum": "9",
+                "scoreAndFavor": {
+                    "favorCount": "309142",
+                    "favorCountDesc": "30.9万 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "3D IMAX",
+                "showName": "上海堡垒",
+                "soldType": "PRE",
+                "starMeeting": {
+                    "schedulesUrl": "https://h5.m.taopiaopiao.com/app/movie/pages/index/star-meeting.html?cityCode=330100&showId=227761",
+                    "tag": "明星见面会",
+                    "title": "滕华涛、舒淇等明星出席，去抢票"
+                },
+                "type": "科幻,战争,爱情",
+                "userShowStatus": "0",
+                "wantCount": "309142"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "陈力",
+                "duration": "120",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1317995",
+                "leadingRole": "王仁君,王志飞,刘智扬,胡兵",
+                "openDay": "2019-08-01 00:00:00",
+                "openTime": "2019-08-01",
+                "orderCount": "0",
+                "poster": "i3/TB1zH81bKP2gK0jSZFoXXauIVXa_.jpg",
+                "preScheduleDates": [],
+                "previewNum": "11",
+                "scoreAndFavor": {
+                    "favorCount": "11235",
+                    "favorCountDesc": "1.1万 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "古田军号",
+                "soldType": "PRE",
+                "type": "剧情,历史,战争",
+                "userShowStatus": "0",
+                "wantCount": "11235"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "文伟鸿",
+                "duration": "98",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1208047",
+                "leadingRole": "张家辉,古天乐,吴镇宇,姜珮瑶",
+                "openDay": "2019-08-07 08:00:00",
+                "openTime": "2019-08-07 08:00",
+                "orderCount": "0",
+                "poster": "i1/TB1Cla6bxz1gK0jSZSgXXavwpXa_.jpg",
+                "preScheduleDates": [],
+                "previewNum": "5",
+                "scoreAndFavor": {
+                    "favorCount": "474178",
+                    "favorCountDesc": "47.4万 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "2D 中国巨幕",
+                "showName": "使徒行者2：谍影行动",
+                "soldType": "PRE",
+                "type": "犯罪,动作,剧情",
+                "userShowStatus": "0",
+                "wantCount": "474178"
+            }
+        ],
+        "timestamp": "1564477823396"
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "4.0"
+}

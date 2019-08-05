@@ -1,0 +1,114 @@
+.cinema-list .item-wrapper {
+    padding: 0 15px;
+}
+
+.cinema-list .item-content {
+    padding: 15px 0 12px;
+    display: block;
+    background: linear-gradient(#ededed, #ededed 50%, transparent 50%, transparent) 0 100% repeat-x;
+    background-size: 100% 1px;
+}
+
+.cinema-list .list-title-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 3px;
+}
+
+.cinema-list .list-title {
+    font-size: 17px;
+}
+
+.cinema-list .list-price {
+    font-size: 15px;
+    color: #ff2e62;
+}
+
+.cinema-list .list-price span {
+    font-size: 12px;
+    color: #999;
+}
+
+.cinema-list .list-price .primary-color {
+    color: #ff2e62;
+}
+
+.cinema-list .list-address {
+    position: relative;
+    font-size: 13px;
+}
+
+.cinema-list .list-location {
+    width: 80%;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    color: #666;
+}
+
+.cinema-list .list-distance {
+    position: absolute;
+    top: 0;
+    right: 15px;
+    color: #999;
+}
+
+.cinema-list .list-status {
+    display: flex;
+    justify-content: flex-start;
+    margin: 2px -3px;
+    flex-wrap: wrap;
+}
+
+.cinema-list .list-activity {
+    margin: 0;
+    padding: 0;
+}
+
+.cinema-list .activity-item {
+    margin: 2px 0;
+    font-size: 12px;
+    color: #999;
+}
+
+.cinema-list .icon-activity {
+    border-radius: 2px;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    line-height: 15px;
+    text-align: center;
+    color: #fff;
+    font-size: 12px;
+    margin-right: 3px;
+}
+
+.cinema-list .icon-activity.icon-0,
+.cinema-list .icon-activity.icon-4 {
+    background-color:#f8bf29;
+}
+
+.cinema-list .icon-activity.icon-1,
+.cinema-list .icon-activity.icon-3,
+.cinema-list .icon-activity.icon-5,
+.cinema-list .icon-activity.icon-9,
+.cinema-list .icon-activity.icon-10 {
+    background-color: #ff9c1c;
+}
+
+.cinema-list .icon-activity.icon-2 {
+    background-color:#00bd67;
+}
+
+.cinema-list .icon-activity.icon-6,
+.cinema-list .icon-activity.icon-7 {
+    background-color:#b390de;
+}
+
+.cinema-list .icon-activity.icon-12 {
+    background-color: #1394f3;
+}
+
+.red {
+    color: red
+}

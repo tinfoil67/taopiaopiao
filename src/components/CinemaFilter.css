@@ -1,0 +1,390 @@
+.filter-wrapper {
+    width: 100%;
+    line-height: 43px;
+    font-size: 13px;
+    text-align: center;
+}
+
+.filter-wrapper .filter-tabs {
+    display: flex;
+}
+
+.filter-wrapper .filter-tab,
+.filter-wrapper .cinema-search {
+    position: relative;
+}
+
+.filter-wrapper .filter-tab {
+    width: 28%;
+}
+
+.filter-wrapper .filter-tab.active {
+    color: #ff2e62;
+}
+
+.filter-wrapper .filter-tab .title {
+    max-width: 52px;
+    padding-left: 4px;
+    display: inline-block;
+    vertical-align: top;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.filter-wrapper .filter-tab .arrow {
+    display: inline-block;
+    vertical-align: middle;
+    width: 0;
+    height: 0;
+    border-top: 4px solid #333;
+    border-left: 3px solid transparent;
+    border-right: 3px solid transparent;
+    margin-left: 6px;
+}
+
+.filter-wrapper .filter-tab.active .arrow {
+    border-top: none;
+    border-bottom: 4px solid #ff2e62;
+}
+
+.filter-wrapper .filter-tab:before,
+.filter-wrapper .cinema-search::before {
+    content: '';
+    width: 1px;
+    height: 23px;
+    display: inline-block;
+    background: #e2e2e2;
+    transform: scaleX(0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+}
+
+.filter-wrapper .cinema-search {
+    width: 16%;
+    color: transparent;
+}
+
+.filter-wrapper .cinema-search .icon-search {
+    width: 100%;
+    height: 100%;
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1000' height='1000'%3E   %3Cpath fill='%238a869e' d='M753.245 753.307c156.988-156.988 156.988-411.517 0-568.505s-411.517-156.988-568.505 0-156.988 411.517 0 568.505 411.517 156.988 568.505 0zm22.855 70.23C591.856 983.49 312.553 975.87 137.365 800.682c-183.153-183.153-183.153-480.103 0-663.256s480.103-183.153 663.255 0c175.19 175.188 182.807 454.492 22.855 638.735L990.23 942.92c13.023 13.022 13.066 34.093-.108 47.266-13.082 13.082-34.48 12.894-47.266.11L776.1 823.536z'/%3E %3C/svg%3E");
+    background-size: 15px 15px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.filter-panel {
+    font-size: 13px;
+    text-align: center;
+    position: absolute;
+    width: 100%;
+    top: 43px;
+    left: 0;
+    background: #fff;
+    z-index: 10;
+}
+
+/* 区域 panel ---> */
+.filter-panel.region-selector {
+    line-height: 40px;
+}
+
+.filter-panel .region-type {
+    line-height: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.filter-panel .region-type [data-type] {
+    position: relative;
+    padding: 0 40px;
+}
+
+.filter-panel .region-type .active {
+    color: #ff2e62;
+}
+
+.filter-panel .region-type .active:after {
+    content: "";
+    position: absolute;
+    left: 40px;
+    right: 40px;
+    bottom: 0;
+    height: 2px;
+    border-radius: 2px;
+    background-color: #ff2e62;
+}
+
+.filter-panel .region-content {
+    display: flex;
+    text-align: left;
+    font-size: 14px;
+}
+
+.filter-panel .area-group-wrapper,
+.filter-panel .sub-area-wrapper {
+    max-height: 305px;
+    /* -webkit-overflow-scrolling: touch; */
+    overflow-y: auto;
+}
+
+.filter-panel .area-group-wrapper {
+    width: 35%;
+}
+
+.filter-panel .area-group,
+.filter-panel .sub-area {
+    margin: 0;
+    padding: 0;
+    /* min-height: calc(100% + 1px); */
+    /* -webkit-overflow-scrolling: touch; */
+}
+
+.filter-panel .area-group li {
+    padding: 0 15px;
+}
+
+.filter-panel .area-group .active {
+    color: #ff2e62;
+    background: #f5f5f5;
+}
+
+.filter-panel .area-group .title {
+    display: inline-block;
+    max-width: calc(100% - 25px);
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.filter-panel .area-group .count {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 3px;
+}
+
+.filter-panel .sub-area-wrapper {
+    width: 65%;
+    background: #f5f5f5;
+}
+
+.filter-panel .sub-area li {
+    display: flex;
+    align-items: center;
+    padding: 0 15px 0 10px;
+    position: relative;
+}
+
+.filter-panel .sub-area li:before {
+    content: '';
+    width: 26px;
+    height: 18px;
+    display: inline-block;
+}
+
+.filter-panel .sub-area .active {
+    color: #ff2e62;
+}
+
+.filter-panel .sub-area .active:before {
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg class='icon' viewBox='0 0 1024 1024' xmlns='http://www.w3.org/2000/svg' width='26' height='18'%3E%3Cdefs%3E%3Cstyle/%3E%3C/defs%3E%3Cpath d='M379.05 833.11l1.28 1.28 518.06-518.06L838.058 256l-459.35 459.35L143.403 480l-60.374 60.33 294.4 294.4 1.622-1.62z' fill='%23ff2e62'/%3E%3C/svg%3E");
+}
+
+.filter-panel .sub-area .title {
+    flex: 1;
+}
+
+.filter-panel .sub-area:not('.active') .count {
+    color: #999;
+}
+
+/* <--- 区域 panel */
+
+
+/* 排序 panel ---> */
+
+.filter-panel.sort-selector {
+    padding: 0;
+    margin: 0;
+    line-height: 40px;
+    text-align: left;
+    font-size: 14px;
+    color: #999;
+}
+
+.filter-panel.sort-selector li {
+    display: flex;
+    align-items: center;
+    background: linear-gradient(#d5d5d5, #d5d5d5 50%, transparent 50%, transparent) 0 100% repeat-x;
+    background-size: 100% 1px; 
+}
+
+.filter-panel.sort-selector li:before {
+    content: '';
+    width: 26px;
+    height: 18px;
+    display: inline-block;
+}
+
+.filter-panel.sort-selector .active {
+    color: #ff2e62;
+}
+
+.filter-panel.sort-selector .active:before {
+    background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg class='icon' viewBox='0 0 1024 1024' xmlns='http://www.w3.org/2000/svg' width='26' height='18'%3E%3Cdefs%3E%3Cstyle/%3E%3C/defs%3E%3Cpath d='M379.05 833.11l1.28 1.28 518.06-518.06L838.058 256l-459.35 459.35L143.403 480l-60.374 60.33 294.4 294.4 1.622-1.62z' fill='%23ff2e62'/%3E%3C/svg%3E");
+}
+
+/* <--- 排序 panel */
+
+
+/* 特色 panel ---> */
+
+.filter-panel.support-selector {
+    padding: 10px;
+    margin: 0;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+}
+
+.filter-panel.support-selector li {
+    width: 25%;
+    line-height: 30px;
+    padding: 4px 5px;
+    box-sizing: border-box;
+}
+
+.filter-panel.support-selector .title {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    border: 1px solid #d5d5d5;
+    border-radius: 4px;
+}
+
+.filter-panel.support-selector .active .title {
+    color: #ff2e62;
+    border-color: #ff2e62;
+}
+
+/* <--- 特色 panel */
+
+
+/* 搜索 panel ---> */
+
+.cinema-searh-wrapper {
+    font-size: 13px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    background: #fff;
+    z-index: 20;
+}
+
+.cinema-searh-wrapper .cinema-search-header {
+    background: #fff linear-gradient(#ededed, #ededed 50%, transparent 50%, transparent) 0 100% repeat-x;
+    background-size: 100% 1px;
+    padding: 7px 15px;
+    display: flex;
+}
+
+.cinema-searh-wrapper .cinema-search-control {
+    background: #f5f5f5;
+    overflow: hidden;
+    border-radius: 4px;
+    position: relative;
+    padding: 0 30px;
+    flex: 1;
+}
+
+.cinema-searh-wrapper .cinema-search-ipt {
+    width: 100%;
+    background: none;
+    border: 0;
+    line-height: 32px;
+    font-size: 13px;
+    padding: 0;
+    margin: 0;
+}
+
+.cinema-searh-wrapper .cinema-search-ipt:focus {
+    outline: none;
+}
+
+.cinema-searh-wrapper .btn-cancel {
+    font-size: 15px;
+    line-height: 32px;
+    margin: 0 0 0 15px;
+    color: #1394f3;
+    padding: 0;
+    border: 0;
+    background: none;
+}
+
+.cinema-searh-wrapper .icon-search {
+    width: 14px;
+    height: 14px;
+    position: absolute;
+    top: 50%;
+    left: 10px;
+    margin-top: -7px;
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='1000' height='1000'%3E   %3Cpath fill='%238a869e' d='M753.245 753.307c156.988-156.988 156.988-411.517 0-568.505s-411.517-156.988-568.505 0-156.988 411.517 0 568.505 411.517 156.988 568.505 0zm22.855 70.23C591.856 983.49 312.553 975.87 137.365 800.682c-183.153-183.153-183.153-480.103 0-663.256s480.103-183.153 663.255 0c175.19 175.188 182.807 454.492 22.855 638.735L990.23 942.92c13.023 13.022 13.066 34.093-.108 47.266-13.082 13.082-34.48 12.894-47.266.11L776.1 823.536z'/%3E %3C/svg%3E");
+    background-size: 14px 14px;
+}
+
+.cinema-searh-wrapper .icon-clear {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    position: absolute;
+    top: 50%;
+    right: 10px;
+    margin-top: -7px;
+    color: #fff;
+    background: gray;
+}
+
+.cinema-searh-wrapper .icon-clear:after {
+    content: '\D7';
+    color: #fff;
+    font-style: normal;
+    text-align: center;
+    line-height: 13px;
+    display: block;
+}
+
+.cinema-searh-wrapper .cinema-search-result {
+    height: calc(100% - 46px);
+    overflow: auto;
+}
+
+.cinema-searh-wrapper .search-loading {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.cinema-searh-wrapper .search-fail {
+    padding-top: 20%;
+    color: #999;
+    text-align: center;
+    font-size: 16px;
+}
+
+/* <--- 搜索 panel */
+
+.mask {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0,0,0,.3);
+    z-index: 8;
+}

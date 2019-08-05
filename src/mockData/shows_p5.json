@@ -1,0 +1,337 @@
+{
+    "api": "mtop.film.mtopshowapi.getshowsbycitycode",
+    "data": {
+        "returnCode": "0",
+        "returnValue": [
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "冯小宁",
+                "duration": "105",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1295895",
+                "leadingRole": "景熙童",
+                "openDay": "2019-04-30 00:00:00",
+                "openTime": "2019-04-30",
+                "orderCount": "0",
+                "poster": "i3/TB1Uf.yNgTqK1RjSZPhXXXfOFXa_.jpg",
+                "previewNum": "3",
+                "remark": "8.1",
+                "scoreAndFavor": {
+                    "favorCount": "47705",
+                    "favorCountDesc": "4.8万 人想看",
+                    "score": {
+                        "score": "8.1",
+                        "scoreCount": "2916",
+                        "scoreCountDesc": "2916 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "2D 中国巨幕",
+                "showName": "动物出击",
+                "soldType": "NORMAL",
+                "type": "剧情,冒险,科幻,家庭",
+                "userShowStatus": "0",
+                "wantCount": "47705"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "美国",
+                "derivationList": [],
+                "director": "迈克尔·道赫蒂",
+                "duration": "132",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "228727",
+                "leadingRole": "凯尔·钱德勒,米莉·博比·布朗,维拉·法梅加,莎莉·霍金斯,托马斯·米德蒂奇,布莱德利·惠特福德",
+                "openDay": "2019-05-31 00:00:00",
+                "openTime": "2019-05-31",
+                "orderCount": "0",
+                "poster": "i4/TB15PVuX2WG3KVjSZPcXXbkbXXa_.jpg",
+                "preScheduleRemark": "8.8",
+                "previewNum": "47",
+                "remark": "8.4",
+                "scoreAndFavor": {
+                    "favorCount": "686041",
+                    "favorCountDesc": "68.6万 人想看",
+                    "score": {
+                        "score": "8.4",
+                        "scoreCount": "786408",
+                        "scoreCountDesc": "78.6万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "3D IMAX",
+                "showName": "哥斯拉2：怪兽之王",
+                "soldType": "NORMAL",
+                "type": "科幻,灾难,动作",
+                "userShowStatus": "0",
+                "wantCount": "686041"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "德国,荷兰,丹麦",
+                "derivationList": [],
+                "director": "Karsten Kiilerich",
+                "duration": "82",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "773682",
+                "leadingRole": "弗莱德·塔他斯西奥,Ronald Small,Dave B. Mitchell,Amir Rahim",
+                "openDay": "2019-07-20 00:00:00",
+                "openTime": "2019-07-20",
+                "orderCount": "0",
+                "poster": "i1/TB1CiPDe8Cw3KVjSZFuXXcAOpXa_.jpg",
+                "previewNum": "1",
+                "scoreAndFavor": {
+                    "favorCount": "6184",
+                    "favorCountDesc": "6184 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showMark": "3D",
+                "showName": "精灵小王子",
+                "soldType": "NORMAL",
+                "type": "动画,喜剧,冒险,奇幻",
+                "userShowStatus": "0",
+                "wantCount": "6184"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆,美国,加拿大",
+                "derivationList": [],
+                "director": "柯文思",
+                "duration": "88",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1215690",
+                "openDay": "2019-07-02 00:00:00",
+                "openTime": "2019-07-02",
+                "orderCount": "0",
+                "poster": "i1/TB1lJxRe8Kw3KVjSZFOXXarDVXa_.jpg",
+                "previewNum": "2",
+                "scoreAndFavor": {
+                    "favorCount": "2543",
+                    "favorCountDesc": "2543 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "善良的天使",
+                "soldType": "NORMAL",
+                "type": "纪录片",
+                "userShowStatus": "0",
+                "wantCount": "2543"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "刘宁",
+                "duration": "85",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1319198",
+                "leadingRole": "陈法蓉,郑佩佩,安泽豪,杨镜儒,韦至",
+                "openDay": "2019-08-09 00:00:00",
+                "openTime": "2019-08-09",
+                "orderCount": "0",
+                "poster": "i2/TB1pq6sbRr0gK0jSZFnXXbRRXXa_.jpg",
+                "preScheduleDates": [],
+                "previewNum": "1",
+                "scoreAndFavor": {
+                    "favorCount": "15803",
+                    "favorCountDesc": "1.6万 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "童童的风铃密室",
+                "soldType": "PRE",
+                "type": "悬疑,惊悚",
+                "userShowStatus": "0",
+                "wantCount": "15803"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "高希希",
+                "duration": "121",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1312581",
+                "leadingRole": "刘端端,邵兵,岳红,何润东,程媛媛,于滨,高强",
+                "openDay": "2019-06-21 00:00:00",
+                "openTime": "2019-06-21",
+                "orderCount": "0",
+                "poster": "i3/TB1AYMQXEKF3KVjSZFEXXXExFXa_.jpg",
+                "previewNum": "18",
+                "remark": "8.3",
+                "scoreAndFavor": {
+                    "favorCount": "46623",
+                    "favorCountDesc": "4.7万 人想看",
+                    "score": {
+                        "score": "8.3",
+                        "scoreCount": "7018",
+                        "scoreCountDesc": "7018 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "八子",
+                "soldType": "NORMAL",
+                "type": "动作,历史,战争",
+                "userShowStatus": "0",
+                "wantCount": "46623"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "刘一",
+                "duration": "88",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1311509",
+                "leadingRole": "范文芳,李铭顺,戚玉武,姬他,卢洋洋,希童",
+                "openDay": "2019-07-05 00:00:00",
+                "openTime": "2019-07-05",
+                "orderCount": "0",
+                "poster": "i1/TB1b7wPcoWF3KVjSZPhXXXclXXa_.jpg",
+                "previewNum": "2",
+                "scoreAndFavor": {
+                    "favorCount": "1951",
+                    "favorCountDesc": "1951 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "他她他她",
+                "soldType": "NORMAL",
+                "type": "剧情,悬疑",
+                "userShowStatus": "0",
+                "wantCount": "1951"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "日本",
+                "derivationList": [],
+                "director": "吉泽俊一",
+                "duration": "89",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1311576",
+                "leadingRole": "榎木淳弥,村中知,松浦爱弓,古川慎,山路和弘",
+                "openDay": "2019-07-12 00:00:00",
+                "openTime": "2019-07-12",
+                "orderCount": "0",
+                "poster": "i1/TB1jkhZXEY1gK0jSZFMXXaWcVXa_.jpg",
+                "preScheduleRemark": "9.1",
+                "previewNum": "5",
+                "remark": "8.6",
+                "scoreAndFavor": {
+                    "favorCount": "38016",
+                    "favorCountDesc": "3.8万 人想看",
+                    "score": {
+                        "score": "8.6",
+                        "scoreCount": "18355",
+                        "scoreCountDesc": "1.8万 人评",
+                        "scoreName": "淘票票评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "机动战士高达NT",
+                "soldType": "NORMAL",
+                "type": "科幻,动画,战争",
+                "userShowStatus": "0",
+                "wantCount": "38016"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国大陆",
+                "derivationList": [],
+                "director": "史涓生, 邓志巍",
+                "duration": "90",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1209301",
+                "leadingRole": "阿杰,边江,西子,夏磊,刘康,郭浩然,张思王之,锦鲤,风袖,张喆,文靖渊,张沛,宝木中阳,闫紫境,管泽元,米勒",
+                "openDay": "2019-08-16 00:00:00",
+                "openTime": "2019-08-16",
+                "orderCount": "0",
+                "poster": "i3/TB1.4ULaEGF3KVjSZFmXXbqPXXa_.jpg",
+                "previewNum": "6",
+                "scoreAndFavor": {
+                    "favorCount": "246162",
+                    "favorCountDesc": "24.6万 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "全职高手之巅峰荣耀",
+                "soldType": "PRE",
+                "type": "剧情,动画",
+                "userShowStatus": "0",
+                "wantCount": "246162"
+            },
+            {
+                "adLink": "",
+                "adUrl": "",
+                "country": "中国,法国",
+                "derivationList": [],
+                "director": "海琳·吉罗,托马斯·绍博",
+                "duration": "91",
+                "fantastic": "0",
+                "fromSearch": "false",
+                "id": "1315768",
+                "leadingRole": "莎拉·科恩-哈德丽亚,Bô Gaultier de Kermoal,蒂埃里·弗雷蒙,布鲁诺·萨拉曼",
+                "openDay": "2019-08-23 00:00:00",
+                "openTime": "2019-08-23",
+                "orderCount": "0",
+                "poster": "i2/TB1EUxMXKT2gK0jSZFvXXXnFXXa_.jpg",
+                "preScheduleDates": [
+                    "1565971200"
+                ],
+                "previewNum": "2",
+                "scoreAndFavor": {
+                    "favorCount": "9986",
+                    "favorCountDesc": "9986 人想看",
+                    "score": {
+                        "scoreName": "暂无评分",
+                        "scoreType": "1"
+                    }
+                },
+                "showName": "昆虫总动员2：来自远方的后援军",
+                "soldType": "PRE",
+                "type": "动画",
+                "userShowStatus": "0",
+                "wantCount": "9986"
+            }
+        ],
+        "timestamp": "1564479714132"
+    },
+    "ret": [
+        "SUCCESS::调用成功"
+    ],
+    "v": "4.0"
+}

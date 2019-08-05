@@ -1,0 +1,90 @@
+.movies-page {
+    padding-bottom: 50px;
+}
+
+.movies-page .current-city {
+    width: 42%;
+    display: inline-block;
+    vertical-align: top;
+    font-size: 0;
+    height: 3.125rem;
+    height: 13.3vw;
+    line-height: 3.125rem;
+    line-height: 13.3vw;
+    background-size: 25px 25px;
+    background-repeat: no-repeat;
+    background-position: 15px;
+    padding-left: 50px;
+    box-sizing: border-box;
+    background-image: url(//gw.alicdn.com/tfs/TB1mKkzl9zqK1RjSZFpXXakSXXa-50-50.svg);
+}
+
+.movies-page .current-city .city-name {
+    color: #333;
+    font-weight: 700;
+    font-size: .9375rem;
+    max-width: 4.375rem;
+    max-width: 18.7vw;
+    width: auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.movies-page .tab-group {
+    display: inline-block;
+    vertical-align: top;
+    position: relative;
+}
+
+.movies-page .tab-group a {
+    display: inline-block;
+    padding: 0 4vw;
+    height: 3.125rem;
+    height: 13.3vw;
+    line-height: 3.125rem;
+    line-height: 13.3vw;
+    font-size: 1rem;
+    color: #777;
+    text-decoration: none;
+    vertical-align: top;
+}
+
+.movies-page .tab-group a.active {
+    font-weight: 700;
+    color: #ff2e62;
+    margin-top: 1px;
+    margin-bottom: -1px;
+}
+
+.movies-page .tab-group .decoration-line {
+    width: 16px;
+    padding: 0;
+    margin: 0;
+    height: 2px;
+    background: #ff2e62;
+    position: absolute;
+    bottom: 3px;
+    left: 0;
+    transform: translate3d(39px, 0px, 0px);
+    transition: transform .3s cubic-bezier(.645,.045,.355,1);
+    transform-origin: 0 0;
+}
+
+.movies-page .tab-group a.active + .decoration-line {
+    transform: translate3d(133px, 0px, 0px);
+}
+
+.movies-page .g-hdr {
+    padding: 10px 20px;
+    line-height: 19px;
+    font-size: 13px;
+}
+
+.movies-page .loading {
+    line-height: 26px;
+    height: 26px;
+    text-align: center;
+    color: #666;
+    font-size: 14px;
+}

@@ -1,0 +1,169 @@
+.movie-list .movie-item {
+    padding-left: 15px;
+    background: #fff;
+}
+
+.movie-list .item-wrapper {
+    width: 100%;
+    display: flex;
+    padding: 15px 15px 15px 0;
+    box-sizing: border-box;
+    background: linear-gradient(#ededed,#ededed 50%,transparent 0,transparent 0) 0 100% repeat-x;
+    background-size: 100% 1px;
+    flex-wrap: wrap;
+}
+
+.movie-list .poster-wrapper {
+    width: 65px;
+    height: 95px;
+    background: #e2e2e2;
+    position: relative;
+    border-radius: 2px;
+    overflow: hidden;
+    flex: none;
+}
+
+.movie-list .poster {
+    background-size: cover;
+    display: block;
+    width: 100%;
+    height: 100%;
+    transition: opacity 0.5s ease-in 0s;
+    opacity: 0;
+}
+
+.movie-list .icon-play,
+.movie-list .icon-play:after {
+    display: block;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+
+.movie-list .icon-play {
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    margin: -10px 0 0 -10px;
+    background: hsla(0,0%,100%,.9);
+}
+
+.movie-list .icon-play:after {
+    content: "";
+    width: 0;
+    height: 0;
+    border-top: 5px solid transparent;
+    border-left: 5px solid #000;
+    border-bottom: 5px solid transparent;
+    margin: -5px 0 0 -2px;
+}
+
+.movie-list .content-wrapper {
+    max-width: calc(100% - 115px);
+    padding: 0 10px;
+    box-sizing: border-box;
+    display: flex;
+    flex: auto;
+    flex-direction: column;
+    text-decoration: none;
+}
+
+.movie-list .content-wrapper .title {
+    display: flex;
+    align-items: center;
+}
+
+.movie-list .content-wrapper .show-name {
+    color: #000;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.movie-list .content-wrapper .brief {
+    color: #666;
+    font-size: 13px;
+    margin-top: 3px;
+    width: auto;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.movie-list .txt-warning {
+    color: #ff9c1c;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.movie-list .fantastic {
+    margin: 0 -3px;
+}
+
+.movie-list .btn-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: none;
+}
+
+.movie-list .tpp-btn {
+    border: 0;
+    display: inline-block;
+    text-align: center;
+    user-select: none;
+    color: #fff;
+    box-sizing: border-box;
+    height: 28px;
+    line-height: 28px;
+    padding: 0 13px;
+    font-size: 12px;
+    border-radius: 120px;
+    text-decoration: none;
+}
+
+.movie-list .tpp-btn-primary {
+    background-image: linear-gradient(45deg,#ff47a8,#ff2e62);
+}
+
+.movie-list .tpp-btn-info {
+    background-image: linear-gradient(45deg,#1ab4ff,#1394f3);
+}
+
+.movie-list .act-tag {
+    max-width: 50px;
+    font-size: 12px;
+    color: #999;
+    margin-top: 5px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+
+.movie-list .act-wrapper {
+    line-height: 40px;
+    padding-right: 15px;
+    margin-top: 10px;
+    margin-left: 75px;
+    margin-bottom: -15px;
+    text-decoration: none;
+    background: transparent linear-gradient(180deg,#ededed,#ededed 50%,transparent 0,transparent 0) 0 0 repeat-x;
+    background-size: 100% 1px;
+    font-size: 13px;
+    color: #666;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    flex: none;
+    width: calc(100% - 75px);
+}
+
+.movie-list .act-wrapper .txt-warning {
+    font-weight: normal;
+}
+
+.movie-list .act-wrapper .gap {
+    color: #ededed;
+    margin: 0 5px;
+}
