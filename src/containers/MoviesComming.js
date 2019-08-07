@@ -1,10 +1,12 @@
+/* @flow */
+
 import React, { Component, Fragment } from 'react'
 
 import MovieItem from '../components/MovieItem'
 import soonshows from '../mockData/soonshows.json'
 
-class MoviesComming extends Component {
-    constructor(props) {
+class MoviesComming extends Component<{}, {showList: Array<Object>}> {
+    constructor(props: any) {
         super(props)
 
         this.state = {
@@ -18,7 +20,7 @@ class MoviesComming extends Component {
         })
     }
 
-    _formatData = (data) => {
+    _formatData = (data: Array<Object>) => {
         const result = []
         const groupedData = {}
 
@@ -42,6 +44,7 @@ class MoviesComming extends Component {
 
     render() {
         return (
+            // $FlowIgnore
             this.state.showList.map((group, index) => 
                 <Fragment key={index}>
                     <div className="g-hdr">{group.title}</div>

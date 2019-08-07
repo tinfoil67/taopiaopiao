@@ -1,10 +1,12 @@
+/* @flow */
+
 import React, { Component } from 'react'
 import './CinemaList.css'
 
 import { LabelOutline } from './Labels'
 
-class CinemaList extends Component {
-    _replaceKeywordByHtml = (str) => {
+class CinemaList extends Component<{keyword?: string, data: Array<any>}> {
+    _replaceKeywordByHtml = (str: string) => {
         const keyword = this.props.keyword
         let result = keyword ? str.replace(keyword, `<span class="red">${keyword}</span>`) : str
         return { __html: result }

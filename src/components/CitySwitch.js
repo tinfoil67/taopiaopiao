@@ -1,9 +1,25 @@
+/* @flow */
+
 import React, { PureComponent, Fragment, createRef } from 'react'
 import { createPortal } from 'react-dom'
 import './CitySwitch.css'
 
-class CitySwitch extends PureComponent {
-    constructor(props) {
+type csType = {
+    currentCity: Object,
+    onSelectCity: Function,
+    gpsCity: Object,
+    cityList: Object,
+    containerDom: Element
+}
+
+type csState = {
+    isCitySelectorShow: boolean,
+}
+
+class CitySwitch extends PureComponent<csType, csState> {
+    citySelectorRef: any
+
+    constructor(props: csType) {
         super(props)
         this.state = {
             isCitySelectorShow: false,
@@ -11,7 +27,7 @@ class CitySwitch extends PureComponent {
         this.citySelectorRef = createRef()
     }
 
-    componentDidUpdate(prevProps) {
+    componentDidUpdate(prevProps: {currentCity: Object}) {
         if (!this.props.currentCity.id && !this.state.isCitySelectorShow) {
             this.handleCitySelectShow()
             console.log('handleCitySelectShow')
@@ -33,7 +49,7 @@ class CitySwitch extends PureComponent {
         this.setState({ isCitySelectorShow: true })
     }
 
-    handleCitySelect(name, id) {
+    handleCitySelect(name: string, id: string) {
         if (!id) return
         if (this.props.onSelectCity) {
             this.props.onSelectCity({

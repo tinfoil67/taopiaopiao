@@ -1,6 +1,8 @@
+/* @flow */
+
 import React, { Component } from 'react'
 import { connect } from 'react-redux'
-import { selectCity, setGPS } from '../reducers/taopiaopiao'
+import { selectCity, setGPS } from '../reducers/citySwitch'
 import CitySwitch from '../components/CitySwitch'
 
 // import cityListData from '../mockData/cityList.json'
@@ -9,7 +11,15 @@ const { returnValue: cityListData } = data
 
 const AMAP_KEY = 'abeeb921e530228e3a0fbe03e7856ab0'
 
-class CitySwitchContainer extends Component {
+class CitySwitchContainer extends Component<*> {
+    container: Element|null
+
+    constructor(props?: any) {
+        super(props)
+
+        this.container = document.getElementById('root')
+    }
+
     componentDidMount() {
         this._loadCurrentCity()
         this._getGPSPosition()
@@ -67,25 +77,21 @@ class CitySwitchContainer extends Component {
             )
     }
 
-    handleSelectCity = (city) => {
+    handleSelectCity = (city: {name: string, id: string}) => {
         if (this.props.onSelect) {
             this.props.onSelect(city)
         }
         localStorage.setItem('currentCity', JSON.stringify(city))
     }
 
-    _getContainer(){
-        return document.getElementById('root')
-    }
-
     render() {
         return (
-            <CitySwitch
+            this.container && <CitySwitch
                 currentCity={this.props.currentCity}
                 gpsCity={this.props.gpsCity}
                 cityList={cityListData}
                 onSelectCity={this.handleSelectCity}
-                containerDom={this._getContainer()} />
+                containerDom={this.container} />
         )
     }
 }

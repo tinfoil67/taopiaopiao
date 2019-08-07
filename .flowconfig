@@ -1,0 +1,14 @@
+[ignore]
+
+[include]
+./src/components
+./src/containers
+
+[libs]
+
+[lints]
+
+[options]
+suppress_comment= \\(.\\|\n\\)*\\$FlowIgnore
+
+[strict]

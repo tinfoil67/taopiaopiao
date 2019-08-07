@@ -1,3 +1,5 @@
+/* @flow */
+
 import React, { Component } from 'react'
 
 import CitySwitch from '../containers/CitySwitch'
@@ -9,14 +11,18 @@ import './Cinemas.css'
 import { data } from '../mockData/cinemaListPage'
 const { returnValue: cinemaListPageData } = data
 
-class Cinema extends Component {
+class Cinema extends Component<*> {
+    container: Element|null
+
+    constructor(props?: any) {
+        super(props)
+
+        this.container = document.getElementById('root')
+    }
+
     componentDidMount(){
         // fetch
         console.log(cinemaListPageData)
-    }
-
-    _getContainer(){
-        return document.getElementById('root')
     }
 
     render() {
@@ -24,8 +30,8 @@ class Cinema extends Component {
             <div className="cinemas-page">
                 <div className="header">
                     <CitySwitch />
-                    <CinemaFilter data={cinemaListPageData.cinemaFilter}
-                        containerDom={this._getContainer()} />
+                    {this.container && <CinemaFilter data={cinemaListPageData.cinemaFilter}
+                        containerDom={this.container} />}
                 </div>
                 <CinemaList data={cinemaListPageData.cinemas} />
             </div>

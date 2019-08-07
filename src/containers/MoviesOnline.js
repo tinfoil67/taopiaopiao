@@ -1,3 +1,5 @@
+/* @flow */
+
 import React, { Component, Fragment, createRef } from 'react'
 
 import MovieItem from '../components/MovieItem'
@@ -9,8 +11,13 @@ import shows_p5 from '../mockData/shows_p5.json'
 import shows_p6 from '../mockData/shows_p6.json'
 const showsData = [shows_p1, shows_p2, shows_p3, shows_p4, shows_p5, shows_p6]
 
-class MoviesOnline extends Component {
-    constructor(props){
+class MoviesOnline extends Component<{}, {showList: Array<Object>, ifNextPage: boolean}> {
+    loadingRef: any
+    io: any
+    page: number
+    pageSize: number
+
+    constructor(props?: any){
         super(props)
 
         this.state = {
@@ -59,7 +66,7 @@ class MoviesOnline extends Component {
         this.io.observe(this.loadingRef.current)
     }
 
-    _getData(page) {
+    _getData(page: number) {
         const data = showsData[page - 1]
         return data ? data.data.returnValue : []
     }

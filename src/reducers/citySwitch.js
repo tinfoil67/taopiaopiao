@@ -1,7 +1,20 @@
+/* @flow */
+
 const SELECT_CITY = 'SELECT_CITY'
 const SET_GPS = 'SET_GPS'
 
-export default function (state, action) {
+type stateType = {
+    currentCity?: { name: string, id: string },
+    gpsCity?: { name: string, id: string }
+}
+
+type actionType = {
+    type: string,
+    currentCity?: { name: string, id: string },
+    gpsCity?: { name: string, id: string }
+}
+
+export default function (state?: stateType, action: actionType) {
     if (!state) {
         state = {
             currentCity: {
@@ -31,14 +44,14 @@ export default function (state, action) {
     }
 }
 
-export const selectCity = (city) => {
+export const selectCity = (city: {name: string, id: string}) => {
     return {
         type: SELECT_CITY,
         currentCity: city
     }
 }
 
-export const setGPS = (city) => {
+export const setGPS = (city: {name: string, id: string}) => {
     return {
         type: SET_GPS,
         gpsCity: city

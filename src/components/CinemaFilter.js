@@ -1,3 +1,5 @@
+/* @flow */
+
 import React, { Component } from 'react'
 import { createPortal } from 'react-dom'
 import debounce from 'lodash.debounce'
@@ -7,8 +9,15 @@ import './CinemaFilter.css'
 
 import searchCinemaData from '../mockData/searchCinemas.json'
 
-class CinemaFilter extends Component {
-    constructor(props) {
+type cfType = {
+    data: Object, 
+    containerDom: Element
+}
+
+class CinemaFilter extends Component<cfType, any> {
+    emitChangeDebounced: any
+
+    constructor(props: cfType) {
         super(props)
 
         const areas = this.props.data.areaMallFilters
@@ -42,14 +51,6 @@ class CinemaFilter extends Component {
         this.emitChangeDebounced = debounce(this._searchCinemas, 250)
     }
 
-    componentDidMount() {
-        // console.log(this.state.searchResult)
-    }
-
-    componentDidUpdate(prevProps, prevState) {
-        
-    }
-
     componentWillUnmount() {
         this.emitChangeDebounced.cancel();
     }
@@ -63,34 +64,31 @@ class CinemaFilter extends Component {
         })
     }
 
-    sortToggleHandler = (e) => {
+    sortToggleHandler = (e: SyntheticMouseEvent<>) => {
         this.setState({
             isRegionSelectorShow: false,
             isSupportSelectorShow: false,
             isCinemaSearchShow: false,
             isSortSelectorShow: !this.state.isSortSelectorShow
         })
-        console.log(e.target)
     }
 
-    supportToggleHandler = (e) => {
+    supportToggleHandler = (e: SyntheticMouseEvent<>) => {
         this.setState({
             isRegionSelectorShow: false,
             isSortSelectorShow: false,
             isCinemaSearchShow: false,
             isSupportSelectorShow: !this.state.isSupportSelectorShow
         })
-        console.log(e.target)
     }
 
-    searchShowHandler = (e) => {
+    searchShowHandler = (e: SyntheticMouseEvent<>) => {
         this.setState({
             isRegionSelectorShow: false,
             isSortSelectorShow: false,
             isSupportSelectorShow: false,
             isCinemaSearchShow: true
         })
-        console.log(e.target)
     }
 
     searchHideHandler = () => {
@@ -99,7 +97,7 @@ class CinemaFilter extends Component {
         })
     }
 
-    selectRegionTypeHandler = (e) => {
+    selectRegionTypeHandler = (e : any) => {
         const type = e.target.dataset.type
         this.setState({
             regionType: type
@@ -117,7 +115,7 @@ class CinemaFilter extends Component {
         })
     }
 
-    selectAreaGroupHandler = (e) => {
+    selectAreaGroupHandler = (e: any) => {
         if (e.target.tagName === 'UL') return;
         let index = e.target.dataset.index
         if (index === undefined) {
@@ -126,7 +124,7 @@ class CinemaFilter extends Component {
         this._updateSubArea(index)
     }
 
-    _updateSubArea = (index) => {
+    _updateSubArea = (index: number) => {
         let currentAreaGroup = {};
         if (this.state.regionType === 'subway') {
             currentAreaGroup = this.props.data.subwayStationFilters[index]
@@ -147,7 +145,7 @@ class CinemaFilter extends Component {
         }
     }
 
-    selectSubAreaHandler = (e) => {
+    selectSubAreaHandler = (e: any) => {
         if (e.target.tagName === 'UL') return;
         let index = e.target.dataset.index
         if (index === undefined) {
@@ -180,7 +178,7 @@ class CinemaFilter extends Component {
         this._updateCinemaList()
     }
 
-    selectSortHandler = (e) => {
+    selectSortHandler = (e: any) => {
         const index = e.target.dataset.index
         const sort = this.props.data.sortTypeFilters[index]
         this.setState({
@@ -190,7 +188,7 @@ class CinemaFilter extends Component {
         }, this._updateCinemaList)
     }
 
-    selectSuportHandler = (e) => {
+    selectSuportHandler = (e: any) => {
         const index = e.target.dataset.index
         const support = this.props.data.supportFilters[index] || {}
         let supportName = support.code ? support.title : '特色'
@@ -219,7 +217,7 @@ class CinemaFilter extends Component {
         })
     }
 
-    searchIptChangeHandler = (e) => {
+    searchIptChangeHandler = (e: any) => {
         const keyword = e.target.value
         this.setState({
             searchKeyword: keyword
@@ -227,7 +225,7 @@ class CinemaFilter extends Component {
         this.emitChangeDebounced(keyword)
     }
 
-    _searchCinemas = (keyword) => {
+    _searchCinemas = (keyword: string) => {
         if (keyword === 'fail') {
             this.setState({
                 isSearchFail: true,
@@ -247,7 +245,6 @@ class CinemaFilter extends Component {
                 })
             }, 300)
         }
-        console.log(keyword)
     }
 
     hidePanelHandler = () => {
@@ -259,7 +256,6 @@ class CinemaFilter extends Component {
     }
 
     render() {
-        // console.log(this.state.currentAreaGroup, this.state.currentSubArea)
         return (
             <div className="filter-wrapper">
                 <div className="filter-tabs">
